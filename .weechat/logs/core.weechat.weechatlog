@@ -1,0 +1,1052 @@
+2013-12-02 08:39:46	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/aspell.so": libaspell.so.15: cannot open shared object file: No such file or directory
+2013-12-02 08:39:46	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2013-12-02 08:39:46		Plugins loaded: alias, charset, fifo, irc, logger, lua, perl, python, relay, rmodifier, ruby, script, tcl, xfer
+2013-12-02 08:50:03	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/aspell.so": libaspell.so.15: cannot open shared object file: No such file or directory
+2013-12-02 08:50:03	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2013-12-02 08:50:03		Plugins loaded: alias, charset, fifo, irc, logger, lua, perl, python, relay, rmodifier, ruby, script, tcl, xfer
+2013-12-02 08:50:07		irc: server localhost created (temporary server, NOT SAVED!)
+2013-12-02 08:50:07		irc: server 6667 created (temporary server, NOT SAVED!)
+2013-12-02 08:51:48	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/aspell.so": libaspell.so.15: cannot open shared object file: No such file or directory
+2013-12-02 08:51:48	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2013-12-02 08:51:48		Plugins loaded: alias, charset, fifo, irc, logger, lua, perl, python, relay, rmodifier, ruby, script, tcl, xfer
+2013-12-02 08:51:56		irc: server localhost created (temporary server, NOT SAVED!)
+2013-12-02 08:51:56		irc: server 6667 created (temporary server, NOT SAVED!)
+2013-12-02 08:52:56		irc: server im created
+2013-12-02 08:53:23		Option changed: irc.server.im.command = "/msg &bitlbee identify 7ucyph3r"  (default: (undefined))
+2013-12-02 08:53:25		Options saved to sec.conf
+2013-12-02 08:53:25		Options saved to weechat.conf
+2013-12-02 08:53:25		Options saved to plugins.conf
+2013-12-02 08:53:25		Options saved to relay.conf
+2013-12-02 08:53:25		Options saved to alias.conf
+2013-12-02 08:53:25		Options saved to logger.conf
+2013-12-02 08:53:25		Options saved to irc.conf
+2013-12-02 08:53:25		Options saved to script.conf
+2013-12-02 08:53:25		Options saved to rmodifier.conf
+2013-12-02 08:53:25		Options saved to charset.conf
+2013-12-02 08:53:25		Options saved to xfer.conf
+2013-12-02 08:53:33	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/aspell.so": libaspell.so.15: cannot open shared object file: No such file or directory
+2013-12-02 08:53:33	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2013-12-02 08:53:33		Plugins loaded: alias, charset, fifo, irc, logger, lua, perl, python, relay, rmodifier, ruby, script, tcl, xfer
+2013-12-02 08:55:07	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/aspell.so": libaspell.so.15: cannot open shared object file: No such file or directory
+2013-12-02 08:55:07	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2013-12-02 08:55:07		Plugins loaded: alias, charset, fifo, irc, logger, lua, perl, python, relay, rmodifier, ruby, script, tcl, xfer
+2013-12-02 09:04:36	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/aspell.so": libaspell.so.15: cannot open shared object file: No such file or directory
+2013-12-02 09:04:36	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2013-12-02 09:04:36		Plugins loaded: alias, charset, fifo, irc, logger, lua, perl, python, relay, rmodifier, ruby, script, tcl, xfer
+2013-12-02 09:10:29	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/aspell.so": libaspell.so.15: cannot open shared object file: No such file or directory
+2013-12-02 09:10:29	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2013-12-02 09:10:29		Plugins loaded: alias, charset, fifo, irc, logger, lua, perl, python, relay, rmodifier, ruby, script, tcl, xfer
+2013-12-02 12:50:43	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/aspell.so": libaspell.so.15: cannot open shared object file: No such file or directory
+2013-12-02 12:50:43	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2013-12-02 12:50:43		Plugins loaded: alias, charset, fifo, irc, logger, lua, perl, python, relay, rmodifier, ruby, script, tcl, xfer
+2013-12-02 12:56:50	=!=	No help available, "commands" is not a command or an option
+2013-12-02 13:00:35	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/aspell.so": libaspell.so.15: cannot open shared object file: No such file or directory
+2013-12-02 13:00:35	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2013-12-02 13:00:35		Plugins loaded: alias, charset, fifo, irc, logger, lua, perl, python, relay, rmodifier, ruby, script, tcl, xfer
+2013-12-02 13:56:29	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/aspell.so": libaspell.so.15: cannot open shared object file: No such file or directory
+2013-12-02 13:56:29	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2013-12-02 13:56:29		Plugins loaded: alias, charset, fifo, irc, logger, lua, perl, python, relay, rmodifier, ruby, script, tcl, xfer
+2013-12-02 15:32:46	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/aspell.so": libaspell.so.15: cannot open shared object file: No such file or directory
+2013-12-02 15:32:46	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2013-12-02 15:32:46		Plugins loaded: alias, charset, fifo, irc, logger, lua, perl, python, relay, rmodifier, ruby, script, tcl, xfer
+2013-12-02 15:34:06	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/aspell.so": libaspell.so.15: cannot open shared object file: No such file or directory
+2013-12-02 15:34:06	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2013-12-02 15:34:06		Plugins loaded: alias, charset, fifo, irc, logger, lua, perl, python, relay, rmodifier, ruby, script, tcl, xfer
+2013-12-02 15:36:08	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/aspell.so": libaspell.so.15: cannot open shared object file: No such file or directory
+2013-12-02 15:36:08	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2013-12-02 15:36:08		Plugins loaded: alias, charset, fifo, irc, logger, lua, perl, python, relay, rmodifier, ruby, script, tcl, xfer
+2013-12-02 15:50:02		Option changed: weechat.bar.status.position = top  (default: bottom)
+2013-12-02 15:50:10		Option changed: weechat.bar.status.position = bottom
+2013-12-02 15:54:15		Option changed: weechat.color.nicklist_away = cyan
+2013-12-02 15:54:23	=!=	Error: failed to set option "weechat.color.nicklist_away"
+2013-12-02 15:54:37	=!=	Error: failed to set option "weechat.color.nicklist_offline"
+2013-12-02 15:55:50		Buffers list:
+2013-12-02 15:55:50		  [1] (core) weechat (notify: all)
+2013-12-02 15:55:50		  [1] (irc) server.im (notify: all)
+2013-12-02 15:55:50		  [2] (irc) im.&bitlbee (notify: all)
+2013-12-02 15:55:50		  [3] (irc) im.#chat_000 (notify: all)
+2013-12-02 16:01:14		script: downloading list of scripts...
+2013-12-02 16:01:15		script: 261 scripts for WeeChat 0.4.2
+2013-12-02 16:01:15		script: script "iset" not found
+2013-12-02 16:01:21		perl: loading script "/home/carminem/.weechat/perl/iset.pl"
+2013-12-02 16:01:21		perl: registered script "iset", version 3.2 (Interactive Set for configuration options)
+2013-12-02 16:01:21		New key binding (context "mouse"): @chat(perl.iset):wheeldown => /repeat 5 /iset **down
+2013-12-02 16:01:21		New key binding (context "mouse"): @chat(perl.iset):button1 => hsignal:iset_mouse
+2013-12-02 16:01:21		New key binding (context "mouse"): @chat(perl.iset):wheelup => /repeat 5 /iset **up
+2013-12-02 16:01:21		New key binding (context "mouse"): @chat(perl.iset):button2* => hsignal:iset_mouse
+2013-12-02 16:03:56		perl: loading script "/home/carminem/.weechat/perl/beep.pl"
+2013-12-02 16:03:56		perl: registered script "beep", version 1.1 (Beep (terminal bell) and/or run command on highlight/private message or new DCC)
+2013-12-02 16:04:04		script: script "allquery.pl" not found
+2013-12-02 16:04:14		perl: loading script "/home/carminem/.weechat/perl/buffers.pl"
+2013-12-02 16:04:14		perl: registered script "buffers", version 4.2 (Sidebar with list of buffers)
+2013-12-02 16:04:15		New key binding (context "mouse"): @item(buffers):button1* => hsignal:buffers_mouse
+2013-12-02 16:04:15		New key binding (context "mouse"): @item(buffers):button2* => hsignal:buffers_mouse
+2013-12-02 16:04:35		python: loading script "/home/carminem/.weechat/python/text_item.py"
+2013-12-02 16:04:35		python: registered script "text_item", version 0.3 (add a plain text to item bar)
+2013-12-02 16:04:38		python: loading script "/home/carminem/.weechat/python/allquery.py"
+2013-12-02 16:04:38		python: registered script "allquery", version 0.2 (Executes command on all irc query buffer)
+2013-12-02 16:04:51		perl: loading script "/home/carminem/.weechat/perl/highmon.pl"
+2013-12-02 16:04:51		perl: registered script "highmon", version 2.3.3.2 (Highlight Monitor)
+2013-12-02 16:05:47		Option changed: iset.color.bg_selected = 31  (default: red)
+2013-12-02 16:06:18		Option changed: iset.color.option_selected = *white  (default: white)
+2013-12-02 16:06:43		Option changed: iset.color.type_selected = *229  (default: yellow)
+2013-12-02 16:19:49	=!=	Error: unknown command "windows" (type /help for help)
+2013-12-02 16:19:50		Windows list:
+2013-12-02 16:19:50		[1] (22:0;171x61) 
+2013-12-02 16:19:52		Buffers list:
+2013-12-02 16:19:52		  [1] (core) weechat (notify: all)
+2013-12-02 16:19:52		  [1] (irc) server.im (notify: all)
+2013-12-02 16:19:52		  [2] (irc) im.&bitlbee (notify: all)
+2013-12-02 16:19:52		  [3] (irc) im.#chat_000 (notify: all)
+2013-12-02 16:19:52		  [4] (perl) iset (notify: all)
+2013-12-02 16:19:52		  [5] (perl) highmon (notify: all)
+2013-12-02 16:19:52		  [6] (irc) im.RosarioMartoneGTalk (notify: all)
+2013-12-02 16:20:02		Windows list:
+2013-12-02 16:20:02		[1] (22:0;171x61) 
+2013-12-02 16:20:04	=!=	Error: unknown command "windows" (type /help for help)
+2013-12-02 16:34:51		List of bar items:
+2013-12-02 16:34:51		  input_paste (plugin: -)
+2013-12-02 16:34:51		  input_prompt (plugin: -)
+2013-12-02 16:34:51		  input_search (plugin: -)
+2013-12-02 16:34:51		  input_text (plugin: -)
+2013-12-02 16:34:51		  time (plugin: -)
+2013-12-02 16:34:51		  buffer_count (plugin: -)
+2013-12-02 16:34:51		  buffer_plugin (plugin: -)
+2013-12-02 16:34:51		  buffer_number (plugin: -)
+2013-12-02 16:34:51		  buffer_name (plugin: -)
+2013-12-02 16:34:51		  buffer_modes (plugin: -)
+2013-12-02 16:34:51		  buffer_filter (plugin: -)
+2013-12-02 16:34:51		  buffer_nicklist_count (plugin: -)
+2013-12-02 16:34:51		  scroll (plugin: -)
+2013-12-02 16:34:51		  hotlist (plugin: -)
+2013-12-02 16:34:51		  completion (plugin: -)
+2013-12-02 16:34:51		  buffer_title (plugin: -)
+2013-12-02 16:34:51		  buffer_nicklist (plugin: -)
+2013-12-02 16:34:51		  window_number (plugin: -)
+2013-12-02 16:34:51		  away (plugin: irc)
+2013-12-02 16:34:51		  buffer_title (plugin: irc)
+2013-12-02 16:34:51		  buffer_plugin (plugin: irc)
+2013-12-02 16:34:51		  buffer_name (plugin: irc)
+2013-12-02 16:34:51		  buffer_modes (plugin: irc)
+2013-12-02 16:34:51		  irc_channel (plugin: irc)
+2013-12-02 16:34:51		  lag (plugin: irc)
+2013-12-02 16:34:51		  input_prompt (plugin: irc)
+2013-12-02 16:34:51		  isetbar_help (plugin: perl)
+2013-12-02 16:34:51		  buffers (plugin: perl)
+2013-12-02 16:38:34	=!=	Error: unknown command "colors" (type /help for help)
+2013-12-02 16:38:41	=!=	Error: unknown command "colors" (type /help for help)
+2013-12-02 16:38:53		script: 261 scripts for WeeChat 0.4.2
+2013-12-02 16:38:53	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/aspell.so": libaspell.so.15: cannot open shared object file: No such file or directory
+2013-12-02 16:38:53	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2013-12-02 16:38:53		Plugins loaded: alias, charset, fifo, irc, logger, lua, perl, python, relay, rmodifier, ruby, script, tcl, xfer
+2013-12-02 16:39:01	=!=	Error: unknown command "colors" (type /help for help)
+2013-12-02 17:01:53	=!=	Error: unknown command "qyut" (type /help for help)
+2013-12-03 08:07:28		script: downloading list of scripts...
+2013-12-03 08:07:28	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/aspell.so": libaspell.so.15: cannot open shared object file: No such file or directory
+2013-12-03 08:07:28	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2013-12-03 08:07:28		Plugins loaded: alias, charset, fifo, irc, logger, lua, perl, python, relay, rmodifier, ruby, script, tcl, xfer
+2013-12-03 08:07:28		script: 264 scripts for WeeChat 0.4.2
+2013-12-03 08:13:22		script: 264 scripts for WeeChat 0.4.2
+2013-12-03 08:13:22	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/aspell.so": libaspell.so.15: cannot open shared object file: No such file or directory
+2013-12-03 08:13:22	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2013-12-03 08:13:22		Plugins loaded: alias, charset, fifo, irc, logger, lua, perl, python, relay, rmodifier, ruby, script, tcl, xfer
+2013-12-03 08:17:29		script: 264 scripts for WeeChat 0.4.2
+2013-12-03 08:17:29	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/aspell.so": libaspell.so.15: cannot open shared object file: No such file or directory
+2013-12-03 08:17:29	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2013-12-03 08:17:29		Plugins loaded: alias, charset, fifo, irc, logger, lua, perl, python, relay, rmodifier, ruby, script, tcl, xfer
+2013-12-03 08:23:40		script: 264 scripts for WeeChat 0.4.2
+2013-12-03 08:23:40	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/aspell.so": libaspell.so.15: cannot open shared object file: No such file or directory
+2013-12-03 08:23:40	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2013-12-03 08:23:40		Plugins loaded: alias, charset, fifo, irc, logger, lua, perl, python, relay, rmodifier, ruby, script, tcl, xfer
+2013-12-03 08:24:22		script: 264 scripts for WeeChat 0.4.2
+2013-12-03 08:24:22	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/aspell.so": libaspell.so.15: cannot open shared object file: No such file or directory
+2013-12-03 08:24:22	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2013-12-03 08:24:22		Plugins loaded: alias, charset, fifo, irc, logger, lua, perl, python, relay, rmodifier, ruby, script, tcl, xfer
+2013-12-03 08:33:36		script: 264 scripts for WeeChat 0.4.2
+2013-12-03 08:33:36	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/aspell.so": libaspell.so.15: cannot open shared object file: No such file or directory
+2013-12-03 08:33:36	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2013-12-03 08:33:36		Plugins loaded: alias, charset, fifo, irc, logger, lua, perl, python, relay, rmodifier, ruby, script, tcl, xfer
+2013-12-03 08:35:54		script: 264 scripts for WeeChat 0.4.2
+2013-12-03 08:35:54	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/aspell.so": libaspell.so.15: cannot open shared object file: No such file or directory
+2013-12-03 08:35:54	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2013-12-03 08:35:54		Plugins loaded: alias, charset, fifo, irc, logger, lua, perl, python, relay, rmodifier, ruby, script, tcl, xfer
+2013-12-03 17:07:06		script: downloading list of scripts...
+2013-12-03 17:07:06	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/aspell.so": libaspell.so.15: cannot open shared object file: No such file or directory
+2013-12-03 17:07:06	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2013-12-03 17:07:06		Plugins loaded: alias, charset, fifo, irc, logger, lua, perl, python, relay, rmodifier, ruby, script, tcl, xfer
+2013-12-03 17:07:27		script: 264 scripts for WeeChat 0.4.2
+2013-12-03 17:21:35		script: 264 scripts for WeeChat 0.4.2
+2013-12-03 17:21:35	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/aspell.so": libaspell.so.15: cannot open shared object file: No such file or directory
+2013-12-03 17:21:35	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2013-12-03 17:21:35		Plugins loaded: alias, charset, fifo, irc, logger, lua, perl, python, relay, rmodifier, ruby, script, tcl, xfer
+2013-12-03 18:16:21		script: downloading list of scripts...
+2013-12-03 18:16:21	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/aspell.so": libaspell.so.15: cannot open shared object file: No such file or directory
+2013-12-03 18:16:21	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2013-12-03 18:16:21		Plugins loaded: alias, charset, fifo, guile, irc, logger, lua, perl, python, relay, rmodifier, ruby, script, tcl, xfer
+2013-12-03 18:16:22		script: 264 scripts for WeeChat 0.4.2
+2013-12-04 08:08:56		script: downloading list of scripts...
+2013-12-04 08:08:56	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/aspell.so": libaspell.so.15: cannot open shared object file: No such file or directory
+2013-12-04 08:08:56	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2013-12-04 08:08:56		Plugins loaded: alias, charset, fifo, guile, irc, logger, lua, perl, python, relay, rmodifier, ruby, script, tcl, xfer
+2013-12-04 08:08:57		script: 264 scripts for WeeChat 0.4.2
+2013-12-04 09:20:05		script: downloading list of scripts...
+2013-12-04 09:20:05	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/aspell.so": libaspell.so.15: cannot open shared object file: No such file or directory
+2013-12-04 09:20:05	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2013-12-04 09:20:05		Plugins loaded: alias, charset, fifo, guile, irc, logger, lua, perl, python, relay, rmodifier, ruby, script, tcl, xfer
+2013-12-04 09:20:06		script: 264 scripts for WeeChat 0.4.2
+2013-12-04 12:09:49		irc: server freenod created
+2013-12-04 12:10:02		All servers:
+2013-12-04 12:10:02		   freenode
+2013-12-04 12:10:02		 * im [connected], 1 channel, 1 pv
+2013-12-04 12:10:02		   freenod
+2013-12-04 12:10:24		All servers:
+2013-12-04 12:10:24		   freenode
+2013-12-04 12:10:24		 * im [connected], 1 channel, 1 pv
+2013-12-04 12:10:24		   freenod
+2013-12-04 12:10:41	=!=	irc: server "freenod" already exists, can't create it!
+2013-12-04 12:10:59		[irc]  /server  list|listfull [<server>]
+2013-12-04 12:10:59		                add <server> <hostname>[/<port>] [-temp] [-<option>[=<value>]] [-no<option>]
+2013-12-04 12:10:59		                copy|rename <server> <new_name>
+2013-12-04 12:10:59		                del|keep <server>
+2013-12-04 12:10:59		                deloutq|jump|raw
+2013-12-04 12:10:59		list, add or remove IRC servers
+2013-12-04 12:10:59		    list: list servers (without argument, this list is displayed)
+2013-12-04 12:10:59		listfull: list servers with detailed info for each server
+2013-12-04 12:10:59		     add: create a new server
+2013-12-04 12:10:59		  server: server name, for internal and display use
+2013-12-04 12:10:59		hostname: name or IP address of server, with optional port (default: 6667), many addresses can be separated by a comma
+2013-12-04 12:10:59		    temp: create temporary server (not saved)
+2013-12-04 12:10:59		  option: set option for server (for boolean option, value can be omitted)
+2013-12-04 12:10:59		nooption: set boolean option to 'off' (for example: -nossl)
+2013-12-04 12:10:59		    copy: duplicate a server
+2013-12-04 12:10:59		  rename: rename a server
+2013-12-04 12:10:59		    keep: keep server in config file (for temporary servers only)
+2013-12-04 12:10:59		     del: delete a server
+2013-12-04 12:10:59		 deloutq: delete messages out queue for all servers (all messages WeeChat is currently sending)
+2013-12-04 12:10:59		    jump: jump to server buffer
+2013-12-04 12:10:59		     raw: open buffer with raw IRC data
+2013-12-04 12:10:59		Examples:
+2013-12-04 12:10:59		  /server listfull
+2013-12-04 12:10:59		  /server add oftc irc.oftc.net/6697 -ssl -autoconnect
+2013-12-04 12:10:59		  /server add oftc6 irc6.oftc.net/6697 -ipv6 -ssl
+2013-12-04 12:10:59		  /server add freenode2 chat.eu.freenode.net/6667,chat.us.freenode.net/6667
+2013-12-04 12:10:59		  /server add freenode3 irc.freenode.net -password=mypass
+2013-12-04 12:10:59		  /server copy oftc oftcbis
+2013-12-04 12:10:59		  /server rename oftc newoftc
+2013-12-04 12:10:59		  /server del freenode
+2013-12-04 12:10:59		  /server deloutq
+2013-12-04 12:15:44		script: downloading list of scripts...
+2013-12-04 12:15:44	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/aspell.so": libaspell.so.15: cannot open shared object file: No such file or directory
+2013-12-04 12:15:44	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2013-12-04 12:15:44		Plugins loaded: alias, charset, fifo, guile, irc, logger, lua, perl, python, relay, rmodifier, ruby, script, tcl, xfer
+2013-12-04 12:15:45		script: 264 scripts for WeeChat 0.4.2
+2013-12-04 12:16:26		[core]
+2013-12-04 12:16:26		  away     buffer   command  debug    filter   history  key      mouse    plugin   quit     repeat   secure   unset    uptime   wait   
+2013-12-04 12:16:26		  bar      color    cursor   eval     help     input    layout   mute     proxy    reload   save     set      upgrade  version  window 
+2013-12-04 12:16:26		[relay]
+2013-12-04 12:16:26		  relay
+2013-12-04 12:16:26		[alias]
+2013-12-04 12:16:26		  AAWAY    AMSG     C        CLOSE    J        LEAVE    N        SAY      UB       V        WI     
+2013-12-04 12:16:26		  alias    ANICK    CHAT     EXIT     K        M        Q        SIGNOFF  UMODE    W        WII    
+2013-12-04 12:16:26		  AME      BYE      CL       IG       KB       MUB      REDRAW   T        unalias  WC       WW     
+2013-12-04 12:16:26		[guile]
+2013-12-04 12:16:26		  guile
+2013-12-04 12:16:26		[perl]
+2013-12-04 12:16:26		  buffers_detach  buffers_whitelist  highclean  highmon  iset  perl
+2013-12-04 12:16:26		[python]
+2013-12-04 12:16:26		  allquery  python
+2013-12-04 12:16:26		[logger]
+2013-12-04 12:16:26		  logger
+2013-12-04 12:16:26		[ruby]
+2013-12-04 12:16:26		  ruby
+2013-12-04 12:16:26		[irc]
+2013-12-04 12:16:26		  admin       dcc         ignore      kill        motd        oper        reconnect   saquit      summon      version   
+2013-12-04 12:16:26		  allchan     dehalfop    info        links       msg         part        rehash      server      time        voice     
+2013-12-04 12:16:26		  allserv     deop        invite      list        names       ping        restart     service     topic       wallchops 
+2013-12-04 12:16:26		  ban         devoice     ison        lusers      nick        pong        sajoin      servlist    trace       wallops   
+2013-12-04 12:16:26		  connect     die         join        map         notice      query       samode      squery      unban       who       
+2013-12-04 12:16:26		  ctcp        disconnect  kick        me          notify      quiet       sanick      squit       userhost    whois     
+2013-12-04 12:16:26		  cycle       halfop      kickban     mode        op          quote       sapart      stats       users       whowas    
+2013-12-04 12:16:26		[script]
+2013-12-04 12:16:26		  script
+2013-12-04 12:16:26		[rmodifier]
+2013-12-04 12:16:26		  rmodifier
+2013-12-04 12:16:26		[charset]
+2013-12-04 12:16:26		  charset
+2013-12-04 12:16:26		[xfer]
+2013-12-04 12:16:26		  me  xfer
+2013-12-04 12:16:26		[lua]
+2013-12-04 12:16:26		  lua
+2013-12-04 12:16:26		[tcl]
+2013-12-04 12:16:26		  tcl
+2013-12-04 12:16:30		[irc]  /server  list|listfull [<server>]
+2013-12-04 12:16:30		                add <server> <hostname>[/<port>] [-temp] [-<option>[=<value>]] [-no<option>]
+2013-12-04 12:16:30		                copy|rename <server> <new_name>
+2013-12-04 12:16:30		                del|keep <server>
+2013-12-04 12:16:30		                deloutq|jump|raw
+2013-12-04 12:16:30		list, add or remove IRC servers
+2013-12-04 12:16:30		    list: list servers (without argument, this list is displayed)
+2013-12-04 12:16:30		listfull: list servers with detailed info for each server
+2013-12-04 12:16:30		     add: create a new server
+2013-12-04 12:16:30		  server: server name, for internal and display use
+2013-12-04 12:16:30		hostname: name or IP address of server, with optional port (default: 6667), many addresses can be separated by a comma
+2013-12-04 12:16:30		    temp: create temporary server (not saved)
+2013-12-04 12:16:30		  option: set option for server (for boolean option, value can be omitted)
+2013-12-04 12:16:30		nooption: set boolean option to 'off' (for example: -nossl)
+2013-12-04 12:16:30		    copy: duplicate a server
+2013-12-04 12:16:30		  rename: rename a server
+2013-12-04 12:16:30		    keep: keep server in config file (for temporary servers only)
+2013-12-04 12:16:30		     del: delete a server
+2013-12-04 12:16:30		 deloutq: delete messages out queue for all servers (all messages WeeChat is currently sending)
+2013-12-04 12:16:30		    jump: jump to server buffer
+2013-12-04 12:16:30		     raw: open buffer with raw IRC data
+2013-12-04 12:16:30		Examples:
+2013-12-04 12:16:30		  /server listfull
+2013-12-04 12:16:30		  /server add oftc irc.oftc.net/6697 -ssl -autoconnect
+2013-12-04 12:16:30		  /server add oftc6 irc6.oftc.net/6697 -ipv6 -ssl
+2013-12-04 12:16:30		  /server add freenode2 chat.eu.freenode.net/6667,chat.us.freenode.net/6667
+2013-12-04 12:16:30		  /server add freenode3 irc.freenode.net -password=mypass
+2013-12-04 12:16:30		  /server copy oftc oftcbis
+2013-12-04 12:16:30		  /server rename oftc newoftc
+2013-12-04 12:16:30		  /server del freenode
+2013-12-04 12:16:30		  /server deloutq
+2013-12-04 12:17:18		[core]
+2013-12-04 12:17:18		  away     buffer   command  debug    filter   history  key      mouse    plugin   quit     repeat   secure   unset    uptime   wait   
+2013-12-04 12:17:18		  bar      color    cursor   eval     help     input    layout   mute     proxy    reload   save     set      upgrade  version  window 
+2013-12-04 12:17:18		[relay]
+2013-12-04 12:17:18		  relay
+2013-12-04 12:17:18		[alias]
+2013-12-04 12:17:18		  AAWAY    AMSG     C        CLOSE    J        LEAVE    N        SAY      UB       V        WI     
+2013-12-04 12:17:18		  alias    ANICK    CHAT     EXIT     K        M        Q        SIGNOFF  UMODE    W        WII    
+2013-12-04 12:17:18		  AME      BYE      CL       IG       KB       MUB      REDRAW   T        unalias  WC       WW     
+2013-12-04 12:17:18		[guile]
+2013-12-04 12:17:18		  guile
+2013-12-04 12:17:18		[perl]
+2013-12-04 12:17:18		  buffers_detach  buffers_whitelist  highclean  highmon  iset  perl
+2013-12-04 12:17:18		[python]
+2013-12-04 12:17:18		  allquery  python
+2013-12-04 12:17:18		[logger]
+2013-12-04 12:17:18		  logger
+2013-12-04 12:17:18		[ruby]
+2013-12-04 12:17:18		  ruby
+2013-12-04 12:17:18		[irc]
+2013-12-04 12:17:18		  admin       dcc         ignore      kill        motd        oper        reconnect   saquit      summon      version   
+2013-12-04 12:17:18		  allchan     dehalfop    info        links       msg         part        rehash      server      time        voice     
+2013-12-04 12:17:18		  allserv     deop        invite      list        names       ping        restart     service     topic       wallchops 
+2013-12-04 12:17:18		  ban         devoice     ison        lusers      nick        pong        sajoin      servlist    trace       wallops   
+2013-12-04 12:17:18		  connect     die         join        map         notice      query       samode      squery      unban       who       
+2013-12-04 12:17:18		  ctcp        disconnect  kick        me          notify      quiet       sanick      squit       userhost    whois     
+2013-12-04 12:17:18		  cycle       halfop      kickban     mode        op          quote       sapart      stats       users       whowas    
+2013-12-04 12:17:18		[script]
+2013-12-04 12:17:18		  script
+2013-12-04 12:17:18		[rmodifier]
+2013-12-04 12:17:18		  rmodifier
+2013-12-04 12:17:18		[charset]
+2013-12-04 12:17:18		  charset
+2013-12-04 12:17:18		[xfer]
+2013-12-04 12:17:18		  me  xfer
+2013-12-04 12:17:18		[lua]
+2013-12-04 12:17:18		  lua
+2013-12-04 12:17:18		[tcl]
+2013-12-04 12:17:18		  tcl
+2013-12-04 12:18:25	=!=	irc: server "freenode" already exists, can't create it!
+2013-12-04 12:19:33		Option changed: irc.server.freenode.nicks = "carminemlt,carminemlt74"  (default: (undefined))
+2013-12-04 12:20:06		Option changed: irc.server.freenode.autoconnect = on  (default: (undefined))
+2013-12-04 12:20:47	=!=	No help available, "register" is not a command or an option
+2013-12-04 12:20:50		[core]
+2013-12-04 12:20:50		  away     color    debug    help     key      mute     quit     save     unset    version
+2013-12-04 12:20:50		  bar      command  eval     history  layout   plugin   reload   secure   upgrade  wait   
+2013-12-04 12:20:50		  buffer   cursor   filter   input    mouse    proxy    repeat   set      uptime   window 
+2013-12-04 12:20:50		[relay]
+2013-12-04 12:20:50		  relay
+2013-12-04 12:20:50		[alias]
+2013-12-04 12:20:50		  AAWAY    AMSG     C        CLOSE    J        LEAVE    N        SAY      UB       V        WI     
+2013-12-04 12:20:50		  alias    ANICK    CHAT     EXIT     K        M        Q        SIGNOFF  UMODE    W        WII    
+2013-12-04 12:20:50		  AME      BYE      CL       IG       KB       MUB      REDRAW   T        unalias  WC       WW     
+2013-12-04 12:20:50		[guile]
+2013-12-04 12:20:50		  guile
+2013-12-04 12:20:50		[perl]
+2013-12-04 12:20:50		  buffers_detach  buffers_whitelist  highclean  highmon  iset  perl
+2013-12-04 12:20:50		[python]
+2013-12-04 12:20:50		  allquery  python
+2013-12-04 12:20:50		[logger]
+2013-12-04 12:20:50		  logger
+2013-12-04 12:20:50		[ruby]
+2013-12-04 12:20:50		  ruby
+2013-12-04 12:20:50		[irc]
+2013-12-04 12:20:50		  admin       dcc         ignore      kill        motd        oper        reconnect   saquit      summon      version   
+2013-12-04 12:20:50		  allchan     dehalfop    info        links       msg         part        rehash      server      time        voice     
+2013-12-04 12:20:50		  allserv     deop        invite      list        names       ping        restart     service     topic       wallchops 
+2013-12-04 12:20:50		  ban         devoice     ison        lusers      nick        pong        sajoin      servlist    trace       wallops   
+2013-12-04 12:20:50		  connect     die         join        map         notice      query       samode      squery      unban       who       
+2013-12-04 12:20:50		  ctcp        disconnect  kick        me          notify      quiet       sanick      squit       userhost    whois     
+2013-12-04 12:20:50		  cycle       halfop      kickban     mode        op          quote       sapart      stats       users       whowas    
+2013-12-04 12:20:50		[script]
+2013-12-04 12:20:50		  script
+2013-12-04 12:20:50		[rmodifier]
+2013-12-04 12:20:50		  rmodifier
+2013-12-04 12:20:50		[charset]
+2013-12-04 12:20:50		  charset
+2013-12-04 12:20:50		[xfer]
+2013-12-04 12:20:50		  me  xfer
+2013-12-04 12:20:50		[lua]
+2013-12-04 12:20:50		  lua
+2013-12-04 12:20:50		[tcl]
+2013-12-04 12:20:50		  tcl
+2013-12-04 12:22:32		All servers:
+2013-12-04 12:22:32		Server: freenode [connected]
+2013-12-04 12:22:32		  addresses. . . . . . : 'chat.freenode.net/6667'
+2013-12-04 12:22:32		  proxy. . . . . . . . :   ('')
+2013-12-04 12:22:32		  ipv6 . . . . . . . . :   (on)
+2013-12-04 12:22:32		  ssl. . . . . . . . . :   (off)
+2013-12-04 12:22:32		  ssl_cert . . . . . . :   ('')
+2013-12-04 12:22:32		  ssl_priorities . . . :   ('NORMAL')
+2013-12-04 12:22:32		  ssl_dhkey_size . . . :   (2048)
+2013-12-04 12:22:32		  ssl_verify . . . . . :   (on)
+2013-12-04 12:22:32		  password . . . . . . :   (hidden)
+2013-12-04 12:22:32		  capabilities . . . . :   ('')
+2013-12-04 12:22:32		  sasl_mechanism . . . :   ('plain')
+2013-12-04 12:22:32		  sasl_username. . . . :   ('')
+2013-12-04 12:22:32		  sasl_password. . . . :   (hidden)
+2013-12-04 12:22:32		  autoconnect. . . . . : on
+2013-12-04 12:22:32		  autoreconnect. . . . :   (on)
+2013-12-04 12:22:32		  autoreconnect_delay. :   (10 seconds)
+2013-12-04 12:22:32		  nicks. . . . . . . . : 'carminemlt,carminemlt74'
+2013-12-04 12:22:32		  username . . . . . . :   ('carminem')
+2013-12-04 12:22:32		  realname . . . . . . :   ('')
+2013-12-04 12:22:32		  local_hostname . . . :   ('')
+2013-12-04 12:22:32		  command. . . . . . . :   ('')
+2013-12-04 12:22:32		  command_delay. . . . :   (0 seconds)
+2013-12-04 12:22:32		  autojoin . . . . . . :   ('')
+2013-12-04 12:22:32		  autorejoin . . . . . :   (off)
+2013-12-04 12:22:32		  autorejoin_delay . . :   (30 seconds)
+2013-12-04 12:22:32		  connection_timeout . :   (60 seconds)
+2013-12-04 12:22:32		  anti_flood_prio_high :   (2 seconds)
+2013-12-04 12:22:32		  anti_flood_prio_low. :   (2 seconds)
+2013-12-04 12:22:32		  away_check . . . . . :   (0 minutes)
+2013-12-04 12:22:32		  away_check_max_nicks :   (25)
+2013-12-04 12:22:32		  default_msg_part . . :   ('WeeChat %v')
+2013-12-04 12:22:32		  default_msg_quit . . :   ('WeeChat %v')
+2013-12-04 12:22:32		Server: im [connected]
+2013-12-04 12:22:32		  addresses. . . . . . : 'localhost/6667'
+2013-12-04 12:22:32		  proxy. . . . . . . . :   ('')
+2013-12-04 12:22:32		  ipv6 . . . . . . . . :   (on)
+2013-12-04 12:22:32		  ssl. . . . . . . . . :   (off)
+2013-12-04 12:22:32		  ssl_cert . . . . . . :   ('')
+2013-12-04 12:22:32		  ssl_priorities . . . :   ('NORMAL')
+2013-12-04 12:22:32		  ssl_dhkey_size . . . :   (2048)
+2013-12-04 12:22:32		  ssl_verify . . . . . :   (on)
+2013-12-04 12:22:32		  password . . . . . . :   (hidden)
+2013-12-04 12:22:32		  capabilities . . . . :   ('')
+2013-12-04 12:22:32		  sasl_mechanism . . . :   ('plain')
+2013-12-04 12:22:32		  sasl_username. . . . :   ('')
+2013-12-04 12:22:32		  sasl_password. . . . :   (hidden)
+2013-12-04 12:22:32		  autoconnect. . . . . : on
+2013-12-04 12:22:32		  autoreconnect. . . . :   (on)
+2013-12-04 12:22:32		  autoreconnect_delay. :   (10 seconds)
+2013-12-04 12:22:32		  nicks. . . . . . . . :   ('carminem,carminem1,carminem2,carminem3,carminem4')
+2013-12-04 12:22:32		  username . . . . . . :   ('carminem')
+2013-12-04 12:22:32		  realname . . . . . . :   ('')
+2013-12-04 12:22:32		  local_hostname . . . :   ('')
+2013-12-04 12:22:32		  command. . . . . . . : '/msg &bitlbee identify 7ucyph3r'
+2013-12-04 12:22:32		  command_delay. . . . :   (0 seconds)
+2013-12-04 12:22:32		  autojoin . . . . . . :   ('')
+2013-12-04 12:22:32		  autorejoin . . . . . :   (off)
+2013-12-04 12:22:32		  autorejoin_delay . . :   (30 seconds)
+2013-12-04 12:22:32		  connection_timeout . :   (60 seconds)
+2013-12-04 12:22:32		  anti_flood_prio_high :   (2 seconds)
+2013-12-04 12:22:32		  anti_flood_prio_low. :   (2 seconds)
+2013-12-04 12:22:32		  away_check . . . . . :   (0 minutes)
+2013-12-04 12:22:32		  away_check_max_nicks :   (25)
+2013-12-04 12:22:32		  default_msg_part . . :   ('WeeChat %v')
+2013-12-04 12:22:32		  default_msg_quit . . :   ('WeeChat %v')
+2013-12-04 12:22:32		Server: freenod [not connected]
+2013-12-04 12:22:32		  addresses. . . . . . : 'chat.freenode.net'
+2013-12-04 12:22:32		  proxy. . . . . . . . :   ('')
+2013-12-04 12:22:32		  ipv6 . . . . . . . . :   (on)
+2013-12-04 12:22:32		  ssl. . . . . . . . . :   (off)
+2013-12-04 12:22:32		  ssl_cert . . . . . . :   ('')
+2013-12-04 12:22:32		  ssl_priorities . . . :   ('NORMAL')
+2013-12-04 12:22:32		  ssl_dhkey_size . . . :   (2048)
+2013-12-04 12:22:32		  ssl_verify . . . . . :   (on)
+2013-12-04 12:22:32		  password . . . . . . :   (hidden)
+2013-12-04 12:22:32		  capabilities . . . . :   ('')
+2013-12-04 12:22:32		  sasl_mechanism . . . :   ('plain')
+2013-12-04 12:22:32		  sasl_username. . . . :   ('')
+2013-12-04 12:22:32		  sasl_password. . . . :   (hidden)
+2013-12-04 12:22:32		  autoconnect. . . . . :   (off)
+2013-12-04 12:22:32		  autoreconnect. . . . :   (on)
+2013-12-04 12:22:32		  autoreconnect_delay. :   (10 seconds)
+2013-12-04 12:22:32		  nicks. . . . . . . . :   ('carminem,carminem1,carminem2,carminem3,carminem4')
+2013-12-04 12:22:32		  username . . . . . . :   ('carminem')
+2013-12-04 12:22:32		  realname . . . . . . :   ('')
+2013-12-04 12:22:32		  local_hostname . . . :   ('')
+2013-12-04 12:22:32		  command. . . . . . . :   ('')
+2013-12-04 12:22:32		  command_delay. . . . :   (0 seconds)
+2013-12-04 12:22:32		  autojoin . . . . . . :   ('')
+2013-12-04 12:22:32		  autorejoin . . . . . :   (off)
+2013-12-04 12:22:32		  autorejoin_delay . . :   (30 seconds)
+2013-12-04 12:22:32		  connection_timeout . :   (60 seconds)
+2013-12-04 12:22:32		  anti_flood_prio_high :   (2 seconds)
+2013-12-04 12:22:32		  anti_flood_prio_low. :   (2 seconds)
+2013-12-04 12:22:32		  away_check . . . . . :   (0 minutes)
+2013-12-04 12:22:32		  away_check_max_nicks :   (25)
+2013-12-04 12:22:32		  default_msg_part . . :   ('WeeChat %v')
+2013-12-04 12:22:32		  default_msg_quit . . :   ('WeeChat %v')
+2013-12-04 12:25:12		script: 264 scripts for WeeChat 0.4.2
+2013-12-04 12:25:12	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/aspell.so": libaspell.so.15: cannot open shared object file: No such file or directory
+2013-12-04 12:25:12	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2013-12-04 12:25:12		Plugins loaded: alias, charset, fifo, guile, irc, logger, lua, perl, python, relay, rmodifier, ruby, script, tcl, xfer
+2013-12-04 12:25:26		[core]
+2013-12-04 12:25:26		  away     color    debug    help     key      mute     quit     save     unset    version
+2013-12-04 12:25:26		  bar      command  eval     history  layout   plugin   reload   secure   upgrade  wait   
+2013-12-04 12:25:26		  buffer   cursor   filter   input    mouse    proxy    repeat   set      uptime   window 
+2013-12-04 12:25:26		[relay]
+2013-12-04 12:25:26		  relay
+2013-12-04 12:25:26		[alias]
+2013-12-04 12:25:26		  AAWAY    AMSG     C        CLOSE    J        LEAVE    N        SAY      UB       V        WI     
+2013-12-04 12:25:26		  alias    ANICK    CHAT     EXIT     K        M        Q        SIGNOFF  UMODE    W        WII    
+2013-12-04 12:25:26		  AME      BYE      CL       IG       KB       MUB      REDRAW   T        unalias  WC       WW     
+2013-12-04 12:25:26		[guile]
+2013-12-04 12:25:26		  guile
+2013-12-04 12:25:26		[perl]
+2013-12-04 12:25:26		  buffers_detach  buffers_whitelist  highclean  highmon  iset  perl
+2013-12-04 12:25:26		[python]
+2013-12-04 12:25:26		  allquery  python
+2013-12-04 12:25:26		[logger]
+2013-12-04 12:25:26		  logger
+2013-12-04 12:25:26		[ruby]
+2013-12-04 12:25:26		  ruby
+2013-12-04 12:25:26		[irc]
+2013-12-04 12:25:26		  admin       dcc         ignore      kill        motd        oper        reconnect   saquit      summon      version   
+2013-12-04 12:25:26		  allchan     dehalfop    info        links       msg         part        rehash      server      time        voice     
+2013-12-04 12:25:26		  allserv     deop        invite      list        names       ping        restart     service     topic       wallchops 
+2013-12-04 12:25:26		  ban         devoice     ison        lusers      nick        pong        sajoin      servlist    trace       wallops   
+2013-12-04 12:25:26		  connect     die         join        map         notice      query       samode      squery      unban       who       
+2013-12-04 12:25:26		  ctcp        disconnect  kick        me          notify      quiet       sanick      squit       userhost    whois     
+2013-12-04 12:25:26		  cycle       halfop      kickban     mode        op          quote       sapart      stats       users       whowas    
+2013-12-04 12:25:26		[script]
+2013-12-04 12:25:26		  script
+2013-12-04 12:25:26		[rmodifier]
+2013-12-04 12:25:26		  rmodifier
+2013-12-04 12:25:26		[charset]
+2013-12-04 12:25:26		  charset
+2013-12-04 12:25:26		[xfer]
+2013-12-04 12:25:26		  me  xfer
+2013-12-04 12:25:26		[lua]
+2013-12-04 12:25:26		  lua
+2013-12-04 12:25:26		[tcl]
+2013-12-04 12:25:26		  tcl
+2013-12-04 12:26:03		script: 264 scripts for WeeChat 0.4.2
+2013-12-04 12:26:03	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/aspell.so": libaspell.so.15: cannot open shared object file: No such file or directory
+2013-12-04 12:26:03	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2013-12-04 12:26:04		Plugins loaded: alias, charset, fifo, guile, irc, logger, lua, perl, python, relay, rmodifier, ruby, script, tcl, xfer
+2013-12-04 12:26:13		All servers:
+2013-12-04 12:26:13		 * freenode [connected], 0 channels, 0 pv
+2013-12-04 12:26:13		 * im [connected], 1 channel, 0 pv
+2013-12-04 12:26:13		   freenod
+2013-12-04 12:26:19	=!=	irc: unknown option for "server" command
+2013-12-04 12:28:35		script: 264 scripts for WeeChat 0.4.2
+2013-12-04 12:28:35	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/aspell.so": libaspell.so.15: cannot open shared object file: No such file or directory
+2013-12-04 12:28:35	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2013-12-04 12:28:35		Plugins loaded: alias, charset, fifo, guile, irc, logger, lua, perl, python, relay, rmodifier, ruby, script, tcl, xfer
+2013-12-04 12:29:56	=!=	Error: unknown command "colors" (type /help for help)
+2013-12-04 12:31:10		script: script "theme.py" not found
+2013-12-04 12:32:18		script: 264 scripts for WeeChat 0.4.2
+2013-12-04 12:32:18	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/aspell.so": libaspell.so.15: cannot open shared object file: No such file or directory
+2013-12-04 12:32:18	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2013-12-04 12:32:18		Plugins loaded: alias, charset, fifo, guile, irc, logger, lua, perl, python, relay, rmodifier, ruby, script, tcl, xfer
+2013-12-04 12:32:25		Scripts loaded:
+2013-12-04 12:32:25		  (none)
+2013-12-04 12:32:30		script: script "theme.py" not found
+2013-12-04 12:32:39		All servers:
+2013-12-04 12:32:39		 * freenode [connected], 0 channels, 0 pv
+2013-12-04 12:32:39		 * im [connected], 1 channel, 0 pv
+2013-12-04 12:32:39		   freenod
+2013-12-04 12:32:44	=!=	Error: unknown command "qui" (type /help for help)
+2013-12-04 12:34:09		script: 264 scripts for WeeChat 0.4.2
+2013-12-04 12:34:09	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/aspell.so": libaspell.so.15: cannot open shared object file: No such file or directory
+2013-12-04 12:34:09	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2013-12-04 12:34:09		Plugins loaded: alias, charset, fifo, guile, irc, logger, lua, perl, python, relay, rmodifier, ruby, script, tcl, xfer
+2013-12-04 12:34:16	=!=	irc: unknown option for "server" command
+2013-12-04 12:34:36		[irc]  /server  list|listfull [<server>]
+2013-12-04 12:34:36		                add <server> <hostname>[/<port>] [-temp] [-<option>[=<value>]] [-no<option>]
+2013-12-04 12:34:36		                copy|rename <server> <new_name>
+2013-12-04 12:34:36		                del|keep <server>
+2013-12-04 12:34:36		                deloutq|jump|raw
+2013-12-04 12:34:36		list, add or remove IRC servers
+2013-12-04 12:34:36		    list: list servers (without argument, this list is displayed)
+2013-12-04 12:34:36		listfull: list servers with detailed info for each server
+2013-12-04 12:34:36		     add: create a new server
+2013-12-04 12:34:36		  server: server name, for internal and display use
+2013-12-04 12:34:36		hostname: name or IP address of server, with optional port (default: 6667), many addresses can be separated by a comma
+2013-12-04 12:34:36		    temp: create temporary server (not saved)
+2013-12-04 12:34:36		  option: set option for server (for boolean option, value can be omitted)
+2013-12-04 12:34:36		nooption: set boolean option to 'off' (for example: -nossl)
+2013-12-04 12:34:36		    copy: duplicate a server
+2013-12-04 12:34:36		  rename: rename a server
+2013-12-04 12:34:36		    keep: keep server in config file (for temporary servers only)
+2013-12-04 12:34:36		     del: delete a server
+2013-12-04 12:34:36		 deloutq: delete messages out queue for all servers (all messages WeeChat is currently sending)
+2013-12-04 12:34:36		    jump: jump to server buffer
+2013-12-04 12:34:36		     raw: open buffer with raw IRC data
+2013-12-04 12:34:36		Examples:
+2013-12-04 12:34:36		  /server listfull
+2013-12-04 12:34:36		  /server add oftc irc.oftc.net/6697 -ssl -autoconnect
+2013-12-04 12:34:36		  /server add oftc6 irc6.oftc.net/6697 -ipv6 -ssl
+2013-12-04 12:34:36		  /server add freenode2 chat.eu.freenode.net/6667,chat.us.freenode.net/6667
+2013-12-04 12:34:36		  /server add freenode3 irc.freenode.net -password=mypass
+2013-12-04 12:34:36		  /server copy oftc oftcbis
+2013-12-04 12:34:36		  /server rename oftc newoftc
+2013-12-04 12:34:36		  /server del freenode
+2013-12-04 12:34:36		  /server deloutq
+2013-12-04 12:34:41		All servers:
+2013-12-04 12:34:41		Server: freenode [connected]
+2013-12-04 12:34:41		  addresses. . . . . . : 'chat.freenode.net/6667'
+2013-12-04 12:34:41		  proxy. . . . . . . . :   ('')
+2013-12-04 12:34:41		  ipv6 . . . . . . . . :   (on)
+2013-12-04 12:34:41		  ssl. . . . . . . . . :   (off)
+2013-12-04 12:34:41		  ssl_cert . . . . . . :   ('')
+2013-12-04 12:34:41		  ssl_priorities . . . :   ('NORMAL')
+2013-12-04 12:34:41		  ssl_dhkey_size . . . :   (2048)
+2013-12-04 12:34:41		  ssl_verify . . . . . :   (on)
+2013-12-04 12:34:41		  password . . . . . . :   (hidden)
+2013-12-04 12:34:41		  capabilities . . . . :   ('')
+2013-12-04 12:34:41		  sasl_mechanism . . . :   ('plain')
+2013-12-04 12:34:41		  sasl_username. . . . :   ('')
+2013-12-04 12:34:41		  sasl_password. . . . :   (hidden)
+2013-12-04 12:34:41		  autoconnect. . . . . : on
+2013-12-04 12:34:41		  autoreconnect. . . . :   (on)
+2013-12-04 12:34:41		  autoreconnect_delay. :   (10 seconds)
+2013-12-04 12:34:41		  nicks. . . . . . . . : 'carminemlt,carminemlt74'
+2013-12-04 12:34:41		  username . . . . . . :   ('carminem')
+2013-12-04 12:34:41		  realname . . . . . . :   ('')
+2013-12-04 12:34:41		  local_hostname . . . :   ('')
+2013-12-04 12:34:41		  command. . . . . . . :   ('')
+2013-12-04 12:34:41		  command_delay. . . . :   (0 seconds)
+2013-12-04 12:34:41		  autojoin . . . . . . :   ('')
+2013-12-04 12:34:41		  autorejoin . . . . . :   (off)
+2013-12-04 12:34:41		  autorejoin_delay . . :   (30 seconds)
+2013-12-04 12:34:41		  connection_timeout . :   (60 seconds)
+2013-12-04 12:34:41		  anti_flood_prio_high :   (2 seconds)
+2013-12-04 12:34:41		  anti_flood_prio_low. :   (2 seconds)
+2013-12-04 12:34:41		  away_check . . . . . :   (0 minutes)
+2013-12-04 12:34:41		  away_check_max_nicks :   (25)
+2013-12-04 12:34:41		  default_msg_part . . :   ('WeeChat %v')
+2013-12-04 12:34:41		  default_msg_quit . . :   ('WeeChat %v')
+2013-12-04 12:34:41		Server: im [connected]
+2013-12-04 12:34:41		  addresses. . . . . . : 'localhost/6667'
+2013-12-04 12:34:41		  proxy. . . . . . . . :   ('')
+2013-12-04 12:34:41		  ipv6 . . . . . . . . :   (on)
+2013-12-04 12:34:41		  ssl. . . . . . . . . :   (off)
+2013-12-04 12:34:41		  ssl_cert . . . . . . :   ('')
+2013-12-04 12:34:41		  ssl_priorities . . . :   ('NORMAL')
+2013-12-04 12:34:41		  ssl_dhkey_size . . . :   (2048)
+2013-12-04 12:34:41		  ssl_verify . . . . . :   (on)
+2013-12-04 12:34:41		  password . . . . . . :   (hidden)
+2013-12-04 12:34:41		  capabilities . . . . :   ('')
+2013-12-04 12:34:41		  sasl_mechanism . . . :   ('plain')
+2013-12-04 12:34:41		  sasl_username. . . . :   ('')
+2013-12-04 12:34:41		  sasl_password. . . . :   (hidden)
+2013-12-04 12:34:41		  autoconnect. . . . . : on
+2013-12-04 12:34:41		  autoreconnect. . . . :   (on)
+2013-12-04 12:34:41		  autoreconnect_delay. :   (10 seconds)
+2013-12-04 12:34:41		  nicks. . . . . . . . :   ('carminem,carminem1,carminem2,carminem3,carminem4')
+2013-12-04 12:34:41		  username . . . . . . :   ('carminem')
+2013-12-04 12:34:41		  realname . . . . . . :   ('')
+2013-12-04 12:34:41		  local_hostname . . . :   ('')
+2013-12-04 12:34:41		  command. . . . . . . : '/msg &bitlbee identify 7ucyph3r'
+2013-12-04 12:34:41		  command_delay. . . . :   (0 seconds)
+2013-12-04 12:34:41		  autojoin . . . . . . :   ('')
+2013-12-04 12:34:41		  autorejoin . . . . . :   (off)
+2013-12-04 12:34:41		  autorejoin_delay . . :   (30 seconds)
+2013-12-04 12:34:41		  connection_timeout . :   (60 seconds)
+2013-12-04 12:34:41		  anti_flood_prio_high :   (2 seconds)
+2013-12-04 12:34:41		  anti_flood_prio_low. :   (2 seconds)
+2013-12-04 12:34:41		  away_check . . . . . :   (0 minutes)
+2013-12-04 12:34:41		  away_check_max_nicks :   (25)
+2013-12-04 12:34:41		  default_msg_part . . :   ('WeeChat %v')
+2013-12-04 12:34:41		  default_msg_quit . . :   ('WeeChat %v')
+2013-12-04 12:34:41		Server: freenod [not connected]
+2013-12-04 12:34:41		  addresses. . . . . . : 'chat.freenode.net'
+2013-12-04 12:34:41		  proxy. . . . . . . . :   ('')
+2013-12-04 12:34:41		  ipv6 . . . . . . . . :   (on)
+2013-12-04 12:34:41		  ssl. . . . . . . . . :   (off)
+2013-12-04 12:34:41		  ssl_cert . . . . . . :   ('')
+2013-12-04 12:34:41		  ssl_priorities . . . :   ('NORMAL')
+2013-12-04 12:34:41		  ssl_dhkey_size . . . :   (2048)
+2013-12-04 12:34:41		  ssl_verify . . . . . :   (on)
+2013-12-04 12:34:41		  password . . . . . . :   (hidden)
+2013-12-04 12:34:41		  capabilities . . . . :   ('')
+2013-12-04 12:34:41		  sasl_mechanism . . . :   ('plain')
+2013-12-04 12:34:41		  sasl_username. . . . :   ('')
+2013-12-04 12:34:41		  sasl_password. . . . :   (hidden)
+2013-12-04 12:34:41		  autoconnect. . . . . :   (off)
+2013-12-04 12:34:41		  autoreconnect. . . . :   (on)
+2013-12-04 12:34:41		  autoreconnect_delay. :   (10 seconds)
+2013-12-04 12:34:41		  nicks. . . . . . . . :   ('carminem,carminem1,carminem2,carminem3,carminem4')
+2013-12-04 12:34:41		  username . . . . . . :   ('carminem')
+2013-12-04 12:34:41		  realname . . . . . . :   ('')
+2013-12-04 12:34:41		  local_hostname . . . :   ('')
+2013-12-04 12:34:41		  command. . . . . . . :   ('')
+2013-12-04 12:34:41		  command_delay. . . . :   (0 seconds)
+2013-12-04 12:34:41		  autojoin . . . . . . :   ('')
+2013-12-04 12:34:41		  autorejoin . . . . . :   (off)
+2013-12-04 12:34:41		  autorejoin_delay . . :   (30 seconds)
+2013-12-04 12:34:41		  connection_timeout . :   (60 seconds)
+2013-12-04 12:34:41		  anti_flood_prio_high :   (2 seconds)
+2013-12-04 12:34:41		  anti_flood_prio_low. :   (2 seconds)
+2013-12-04 12:34:41		  away_check . . . . . :   (0 minutes)
+2013-12-04 12:34:41		  away_check_max_nicks :   (25)
+2013-12-04 12:34:41		  default_msg_part . . :   ('WeeChat %v')
+2013-12-04 12:34:41		  default_msg_quit . . :   ('WeeChat %v')
+2013-12-04 12:34:57		[irc]  /server  list|listfull [<server>]
+2013-12-04 12:34:57		                add <server> <hostname>[/<port>] [-temp] [-<option>[=<value>]] [-no<option>]
+2013-12-04 12:34:57		                copy|rename <server> <new_name>
+2013-12-04 12:34:57		                del|keep <server>
+2013-12-04 12:34:57		                deloutq|jump|raw
+2013-12-04 12:34:57		list, add or remove IRC servers
+2013-12-04 12:34:57		    list: list servers (without argument, this list is displayed)
+2013-12-04 12:34:57		listfull: list servers with detailed info for each server
+2013-12-04 12:34:57		     add: create a new server
+2013-12-04 12:34:57		  server: server name, for internal and display use
+2013-12-04 12:34:57		hostname: name or IP address of server, with optional port (default: 6667), many addresses can be separated by a comma
+2013-12-04 12:34:57		    temp: create temporary server (not saved)
+2013-12-04 12:34:57		  option: set option for server (for boolean option, value can be omitted)
+2013-12-04 12:34:57		nooption: set boolean option to 'off' (for example: -nossl)
+2013-12-04 12:34:57		    copy: duplicate a server
+2013-12-04 12:34:57		  rename: rename a server
+2013-12-04 12:34:57		    keep: keep server in config file (for temporary servers only)
+2013-12-04 12:34:57		     del: delete a server
+2013-12-04 12:34:57		 deloutq: delete messages out queue for all servers (all messages WeeChat is currently sending)
+2013-12-04 12:34:57		    jump: jump to server buffer
+2013-12-04 12:34:57		     raw: open buffer with raw IRC data
+2013-12-04 12:34:57		Examples:
+2013-12-04 12:34:57		  /server listfull
+2013-12-04 12:34:57		  /server add oftc irc.oftc.net/6697 -ssl -autoconnect
+2013-12-04 12:34:57		  /server add oftc6 irc6.oftc.net/6697 -ipv6 -ssl
+2013-12-04 12:34:57		  /server add freenode2 chat.eu.freenode.net/6667,chat.us.freenode.net/6667
+2013-12-04 12:34:57		  /server add freenode3 irc.freenode.net -password=mypass
+2013-12-04 12:34:57		  /server copy oftc oftcbis
+2013-12-04 12:34:57		  /server rename oftc newoftc
+2013-12-04 12:34:57		  /server del freenode
+2013-12-04 12:34:57		  /server deloutq
+2013-12-04 12:35:05		irc: server freenod has been deleted
+2013-12-04 12:43:09		script: 264 scripts for WeeChat 0.4.2
+2013-12-04 12:43:09	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/aspell.so": libaspell.so.15: cannot open shared object file: No such file or directory
+2013-12-04 12:43:09	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2013-12-04 12:43:09		Plugins loaded: alias, charset, fifo, guile, irc, logger, lua, perl, python, relay, rmodifier, ruby, script, tcl, xfer
+2013-12-04 12:43:27		All servers:
+2013-12-04 12:43:27		Server: freenode [connected]
+2013-12-04 12:43:27		  addresses. . . . . . : 'chat.freenode.net/6667'
+2013-12-04 12:43:27		  proxy. . . . . . . . :   ('')
+2013-12-04 12:43:27		  ipv6 . . . . . . . . :   (on)
+2013-12-04 12:43:27		  ssl. . . . . . . . . :   (off)
+2013-12-04 12:43:27		  ssl_cert . . . . . . :   ('')
+2013-12-04 12:43:27		  ssl_priorities . . . :   ('NORMAL')
+2013-12-04 12:43:27		  ssl_dhkey_size . . . :   (2048)
+2013-12-04 12:43:27		  ssl_verify . . . . . :   (on)
+2013-12-04 12:43:27		  password . . . . . . :   (hidden)
+2013-12-04 12:43:27		  capabilities . . . . :   ('')
+2013-12-04 12:43:27		  sasl_mechanism . . . :   ('plain')
+2013-12-04 12:43:27		  sasl_username. . . . :   ('')
+2013-12-04 12:43:27		  sasl_password. . . . :   (hidden)
+2013-12-04 12:43:27		  autoconnect. . . . . : on
+2013-12-04 12:43:27		  autoreconnect. . . . :   (on)
+2013-12-04 12:43:27		  autoreconnect_delay. :   (10 seconds)
+2013-12-04 12:43:27		  nicks. . . . . . . . : 'carminemlt,carminemlt74'
+2013-12-04 12:43:27		  username . . . . . . :   ('carminem')
+2013-12-04 12:43:27		  realname . . . . . . :   ('')
+2013-12-04 12:43:27		  local_hostname . . . :   ('')
+2013-12-04 12:43:27		  command. . . . . . . :   ('')
+2013-12-04 12:43:27		  command_delay. . . . :   (0 seconds)
+2013-12-04 12:43:27		  autojoin . . . . . . :   ('')
+2013-12-04 12:43:27		  autorejoin . . . . . :   (off)
+2013-12-04 12:43:27		  autorejoin_delay . . :   (30 seconds)
+2013-12-04 12:43:27		  connection_timeout . :   (60 seconds)
+2013-12-04 12:43:27		  anti_flood_prio_high :   (2 seconds)
+2013-12-04 12:43:27		  anti_flood_prio_low. :   (2 seconds)
+2013-12-04 12:43:27		  away_check . . . . . :   (0 minutes)
+2013-12-04 12:43:27		  away_check_max_nicks :   (25)
+2013-12-04 12:43:27		  default_msg_part . . :   ('WeeChat %v')
+2013-12-04 12:43:27		  default_msg_quit . . :   ('WeeChat %v')
+2013-12-04 12:43:27		Server: im [connected]
+2013-12-04 12:43:27		  addresses. . . . . . : 'localhost/6667'
+2013-12-04 12:43:27		  proxy. . . . . . . . :   ('')
+2013-12-04 12:43:27		  ipv6 . . . . . . . . :   (on)
+2013-12-04 12:43:27		  ssl. . . . . . . . . :   (off)
+2013-12-04 12:43:27		  ssl_cert . . . . . . :   ('')
+2013-12-04 12:43:27		  ssl_priorities . . . :   ('NORMAL')
+2013-12-04 12:43:27		  ssl_dhkey_size . . . :   (2048)
+2013-12-04 12:43:27		  ssl_verify . . . . . :   (on)
+2013-12-04 12:43:27		  password . . . . . . :   (hidden)
+2013-12-04 12:43:27		  capabilities . . . . :   ('')
+2013-12-04 12:43:27		  sasl_mechanism . . . :   ('plain')
+2013-12-04 12:43:27		  sasl_username. . . . :   ('')
+2013-12-04 12:43:27		  sasl_password. . . . :   (hidden)
+2013-12-04 12:43:27		  autoconnect. . . . . : on
+2013-12-04 12:43:27		  autoreconnect. . . . :   (on)
+2013-12-04 12:43:27		  autoreconnect_delay. :   (10 seconds)
+2013-12-04 12:43:27		  nicks. . . . . . . . :   ('carminem,carminem1,carminem2,carminem3,carminem4')
+2013-12-04 12:43:27		  username . . . . . . :   ('carminem')
+2013-12-04 12:43:27		  realname . . . . . . :   ('')
+2013-12-04 12:43:27		  local_hostname . . . :   ('')
+2013-12-04 12:43:27		  command. . . . . . . : '/msg &bitlbee identify 7ucyph3r'
+2013-12-04 12:43:27		  command_delay. . . . :   (0 seconds)
+2013-12-04 12:43:27		  autojoin . . . . . . :   ('')
+2013-12-04 12:43:27		  autorejoin . . . . . :   (off)
+2013-12-04 12:43:27		  autorejoin_delay . . :   (30 seconds)
+2013-12-04 12:43:27		  connection_timeout . :   (60 seconds)
+2013-12-04 12:43:27		  anti_flood_prio_high :   (2 seconds)
+2013-12-04 12:43:27		  anti_flood_prio_low. :   (2 seconds)
+2013-12-04 12:43:27		  away_check . . . . . :   (0 minutes)
+2013-12-04 12:43:27		  away_check_max_nicks :   (25)
+2013-12-04 12:43:27		  default_msg_part . . :   ('WeeChat %v')
+2013-12-04 12:43:27		  default_msg_quit . . :   ('WeeChat %v')
+2013-12-04 13:44:20		script: downloading list of scripts...
+2013-12-04 13:44:20	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/aspell.so": libaspell.so.15: cannot open shared object file: No such file or directory
+2013-12-04 13:44:20	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2013-12-04 13:44:20		Plugins loaded: alias, charset, fifo, guile, irc, logger, lua, perl, python, relay, rmodifier, ruby, script, tcl, xfer
+2013-12-04 13:44:27		script: 264 scripts for WeeChat 0.4.2
+2013-12-04 13:44:35	=!=	Error: unknown command "seti" (type /help for help)
+2013-12-04 13:45:08		Option changed: buffers.color.none_channel_bg = red  (default: default)
+2013-12-04 13:45:26	=!=	Error: unknown command "" (type /help for help)
+2013-12-04 13:46:05		Option changed: buffers.color.none_channel_bg = default
+2013-12-04 13:46:45		Option changed: buffers.color.queries_default_bg = red  (default: default)
+2013-12-04 13:47:12		Option changed: buffers.color.queries_default_bg = default
+2013-12-04 13:49:04		Option changed: weechat.color.chat = red  (default: default)
+2013-12-04 13:49:13		All servers:
+2013-12-04 13:49:13		Server: freenode [connected]
+2013-12-04 13:49:13		  addresses. . . . . . : 'chat.freenode.net/6667'
+2013-12-04 13:49:13		  proxy. . . . . . . . :   ('')
+2013-12-04 13:49:13		  ipv6 . . . . . . . . :   (on)
+2013-12-04 13:49:13		  ssl. . . . . . . . . :   (off)
+2013-12-04 13:49:13		  ssl_cert . . . . . . :   ('')
+2013-12-04 13:49:13		  ssl_priorities . . . :   ('NORMAL')
+2013-12-04 13:49:13		  ssl_dhkey_size . . . :   (2048)
+2013-12-04 13:49:13		  ssl_verify . . . . . :   (on)
+2013-12-04 13:49:13		  password . . . . . . :   (hidden)
+2013-12-04 13:49:13		  capabilities . . . . :   ('')
+2013-12-04 13:49:13		  sasl_mechanism . . . :   ('plain')
+2013-12-04 13:49:13		  sasl_username. . . . :   ('')
+2013-12-04 13:49:13		  sasl_password. . . . :   (hidden)
+2013-12-04 13:49:13		  autoconnect. . . . . : on
+2013-12-04 13:49:13		  autoreconnect. . . . :   (on)
+2013-12-04 13:49:13		  autoreconnect_delay. :   (10 seconds)
+2013-12-04 13:49:13		  nicks. . . . . . . . : 'carminemlt,carminemlt74'
+2013-12-04 13:49:13		  username . . . . . . :   ('carminem')
+2013-12-04 13:49:13		  realname . . . . . . :   ('')
+2013-12-04 13:49:13		  local_hostname . . . :   ('')
+2013-12-04 13:49:13		  command. . . . . . . :   ('')
+2013-12-04 13:49:13		  command_delay. . . . :   (0 seconds)
+2013-12-04 13:49:13		  autojoin . . . . . . :   ('')
+2013-12-04 13:49:13		  autorejoin . . . . . :   (off)
+2013-12-04 13:49:13		  autorejoin_delay . . :   (30 seconds)
+2013-12-04 13:49:13		  connection_timeout . :   (60 seconds)
+2013-12-04 13:49:13		  anti_flood_prio_high :   (2 seconds)
+2013-12-04 13:49:13		  anti_flood_prio_low. :   (2 seconds)
+2013-12-04 13:49:13		  away_check . . . . . :   (0 minutes)
+2013-12-04 13:49:13		  away_check_max_nicks :   (25)
+2013-12-04 13:49:13		  default_msg_part . . :   ('WeeChat %v')
+2013-12-04 13:49:13		  default_msg_quit . . :   ('WeeChat %v')
+2013-12-04 13:49:13		Server: im [connected]
+2013-12-04 13:49:13		  addresses. . . . . . : 'localhost/6667'
+2013-12-04 13:49:13		  proxy. . . . . . . . :   ('')
+2013-12-04 13:49:13		  ipv6 . . . . . . . . :   (on)
+2013-12-04 13:49:13		  ssl. . . . . . . . . :   (off)
+2013-12-04 13:49:13		  ssl_cert . . . . . . :   ('')
+2013-12-04 13:49:13		  ssl_priorities . . . :   ('NORMAL')
+2013-12-04 13:49:13		  ssl_dhkey_size . . . :   (2048)
+2013-12-04 13:49:13		  ssl_verify . . . . . :   (on)
+2013-12-04 13:49:13		  password . . . . . . :   (hidden)
+2013-12-04 13:49:13		  capabilities . . . . :   ('')
+2013-12-04 13:49:13		  sasl_mechanism . . . :   ('plain')
+2013-12-04 13:49:13		  sasl_username. . . . :   ('')
+2013-12-04 13:49:13		  sasl_password. . . . :   (hidden)
+2013-12-04 13:49:13		  autoconnect. . . . . : on
+2013-12-04 13:49:13		  autoreconnect. . . . :   (on)
+2013-12-04 13:49:13		  autoreconnect_delay. :   (10 seconds)
+2013-12-04 13:49:13		  nicks. . . . . . . . :   ('carminem,carminem1,carminem2,carminem3,carminem4')
+2013-12-04 13:49:13		  username . . . . . . :   ('carminem')
+2013-12-04 13:49:13		  realname . . . . . . :   ('')
+2013-12-04 13:49:13		  local_hostname . . . :   ('')
+2013-12-04 13:49:13		  command. . . . . . . : '/msg &bitlbee identify 7ucyph3r'
+2013-12-04 13:49:13		  command_delay. . . . :   (0 seconds)
+2013-12-04 13:49:13		  autojoin . . . . . . :   ('')
+2013-12-04 13:49:13		  autorejoin . . . . . :   (off)
+2013-12-04 13:49:13		  autorejoin_delay . . :   (30 seconds)
+2013-12-04 13:49:13		  connection_timeout . :   (60 seconds)
+2013-12-04 13:49:13		  anti_flood_prio_high :   (2 seconds)
+2013-12-04 13:49:13		  anti_flood_prio_low. :   (2 seconds)
+2013-12-04 13:49:13		  away_check . . . . . :   (0 minutes)
+2013-12-04 13:49:13		  away_check_max_nicks :   (25)
+2013-12-04 13:49:13		  default_msg_part . . :   ('WeeChat %v')
+2013-12-04 13:49:13		  default_msg_quit . . :   ('WeeChat %v')
+2013-12-04 13:49:31		Option changed: weechat.color.chat = default
+2013-12-04 13:51:24	=!=	Error: option "buffer.scolor.current_bg" not found
+2013-12-04 13:51:43	=!=	Error: unknown command "ser" (type /help for help)
+2013-12-04 13:51:54	=!=	Error: unknown command "ser" (type /help for help)
+2013-12-04 13:54:52		Option changed: weechat.color.chat_buffer = red  (default: white)
+2013-12-04 13:54:57		Option changed: weechat.color.chat_buffer = white
+2013-12-04 13:55:10		Option changed: weechat.color.chat_channel = white
+2013-12-04 13:55:23		Option changed: weechat.color.chat_channel = red  (default: white)
+2013-12-04 13:55:29		Option changed: weechat.color.chat_channel = white
+2013-12-04 13:55:36		Options reloaded from sec.conf
+2013-12-04 13:55:36		Options reloaded from weechat.conf
+2013-12-04 13:55:37		Options reloaded from plugins.conf
+2013-12-04 13:55:37		Options reloaded from relay.conf
+2013-12-04 13:55:37		Options reloaded from alias.conf
+2013-12-04 13:55:37		Options reloaded from iset.conf
+2013-12-04 13:55:37		Options reloaded from buffers.conf
+2013-12-04 13:55:37		Options reloaded from logger.conf
+2013-12-04 13:55:37		Options reloaded from irc.conf
+2013-12-04 13:55:37		Options reloaded from script.conf
+2013-12-04 13:55:37		Options reloaded from rmodifier.conf
+2013-12-04 13:55:37		Options reloaded from charset.conf
+2013-12-04 13:55:37		Options reloaded from xfer.conf
+2013-12-04 13:55:53		Option changed: weechat.color.chat_channel = red  (default: white)
+2013-12-04 13:55:55		Options reloaded from sec.conf
+2013-12-04 13:55:55		Notify changed for "perl.highmon": "none" to "all"
+2013-12-04 13:55:55		Options reloaded from weechat.conf
+2013-12-04 13:55:55		Options reloaded from plugins.conf
+2013-12-04 13:55:55		Options reloaded from relay.conf
+2013-12-04 13:55:55		Options reloaded from alias.conf
+2013-12-04 13:55:55		Options reloaded from iset.conf
+2013-12-04 13:55:55		Options reloaded from buffers.conf
+2013-12-04 13:55:55		Options reloaded from logger.conf
+2013-12-04 13:55:55		Options reloaded from irc.conf
+2013-12-04 13:55:56		Options reloaded from script.conf
+2013-12-04 13:55:56		Options reloaded from rmodifier.conf
+2013-12-04 13:55:56		Options reloaded from charset.conf
+2013-12-04 13:55:56		Options reloaded from xfer.conf
+2013-12-04 13:56:05		Option changed: weechat.color.chat_channel = white
+2013-12-04 13:56:11		script: 264 scripts for WeeChat 0.4.2
+2013-12-04 13:56:11	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/aspell.so": libaspell.so.15: cannot open shared object file: No such file or directory
+2013-12-04 13:56:11	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2013-12-04 13:56:11		Plugins loaded: alias, charset, fifo, guile, irc, logger, lua, perl, python, relay, rmodifier, ruby, script, tcl, xfer
+2013-12-04 13:59:02		Option changed: weechat.color.chat_time = red  (default: default)
+2013-12-04 13:59:15		Option changed: weechat.color.chat_time = default
+2013-12-04 13:59:35		Option changed: weechat.color.status_time = red  (default: default)
+2013-12-04 13:59:54		Option changed: weechat.color.status_time = white  (default: default)
+2013-12-04 14:10:12		script: 264 scripts for WeeChat 0.4.2
+2013-12-04 14:10:12	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/aspell.so": libaspell.so.15: cannot open shared object file: No such file or directory
+2013-12-04 14:10:12	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2013-12-04 14:10:12		Plugins loaded: alias, charset, fifo, guile, irc, logger, lua, perl, python, relay, rmodifier, ruby, script, tcl, xfer
+2013-12-04 14:12:19		Option changed: irc.color.topic_old = white  (default: darkgray)
+2013-12-04 14:12:24		Option changed: irc.color.topic_old = darkgray
+2013-12-04 14:12:45		Option changed: logger.color.backlog_end = red  (default: darkgray)
+2013-12-04 14:12:48		Option changed: logger.color.backlog_end = darkgray
+2013-12-04 14:12:53		Option changed: logger.color.backlog_line = red  (default: darkgray)
+2013-12-04 14:12:57		Option changed: logger.color.backlog_line = darkgray
+2013-12-04 14:17:25		Option changed: weechat.color.chat_delimiters = red  (default: green)
+2013-12-04 14:17:39		Option changed: weechat.color.chat_delimiters = green
+2013-12-04 14:17:49		Option changed: weechat.color.chat_delimiters = red  (default: green)
+2013-12-04 14:17:56		Option changed: weechat.color.chat_delimiters = green
+2013-12-04 14:18:35		All servers:
+2013-12-04 14:18:35		 * freenode [connected], 0 channels, 0 pv
+2013-12-04 14:18:35		 * im [connected], 1 channel, 0 pv
+2013-12-04 14:19:54		[look] (irc.conf)
+2013-12-04 14:19:54		  irc.look.highlight_server = "$nick"
+2013-12-04 14:19:54		1 option (matching with "irc.look.highlight_server")
+2013-12-04 14:22:40		Option changed: logger.color.backlog_end = red  (default: darkgray)
+2013-12-04 14:22:48		Option changed: logger.color.backlog_line = white  (default: darkgray)
+2013-12-04 14:25:21		script: 264 scripts for WeeChat 0.4.2
+2013-12-04 14:25:21	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/aspell.so": libaspell.so.15: cannot open shared object file: No such file or directory
+2013-12-04 14:25:21	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2013-12-04 14:25:21		Plugins loaded: alias, charset, fifo, guile, irc, logger, lua, perl, python, relay, rmodifier, ruby, script, tcl, xfer
+2013-12-04 14:27:45	=!=	Error: unknown command "scripts" (type /help for help)
+2013-12-04 14:27:54	=!=	No help available, "scripts" is not a command or an option
+2013-12-04 14:27:57	=!=	Error: unknown command "scripts" (type /help for help)
+2013-12-04 14:28:00	=!=	Error: unknown command "scripts" (type /help for help)
+2013-12-04 14:28:04		Scripts loaded:
+2013-12-04 14:28:04		 * ia   beep.pl 1.1 (Beep (terminal bell) and/or run command on highlight/private message or new DCC)
+2013-12-04 14:28:04		 * ia   buffers.pl 4.2 (Sidebar with list of buffers)
+2013-12-04 14:28:04		   ia   highmon.pl 2.3.3.2 (Highlight Monitor)
+2013-12-04 14:28:04		 * ia   iset.pl 3.2 (Interactive Set for configuration options)
+2013-12-04 14:28:04		   ia   allquery.py 0.2 (Executes command on all irc query buffer)
+2013-12-04 14:28:04		   ia   text_item.py 0.3 (add a plain text to item bar)
+2013-12-04 14:29:11		script: 264 scripts for WeeChat 0.4.2
+2013-12-04 14:29:11	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/aspell.so": libaspell.so.15: cannot open shared object file: No such file or directory
+2013-12-04 14:29:11	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2013-12-04 14:29:12		Plugins loaded: alias, charset, fifo, guile, irc, logger, lua, perl, python, relay, rmodifier, ruby, script, tcl, xfer
+2013-12-04 14:30:19		All servers:
+2013-12-04 14:30:19		Server: freenode [connected]
+2013-12-04 14:30:19		  addresses. . . . . . : 'chat.freenode.net/6667'
+2013-12-04 14:30:19		  proxy. . . . . . . . :   ('')
+2013-12-04 14:30:19		  ipv6 . . . . . . . . :   (on)
+2013-12-04 14:30:19		  ssl. . . . . . . . . :   (off)
+2013-12-04 14:30:19		  ssl_cert . . . . . . :   ('')
+2013-12-04 14:30:19		  ssl_priorities . . . :   ('NORMAL')
+2013-12-04 14:30:19		  ssl_dhkey_size . . . :   (2048)
+2013-12-04 14:30:19		  ssl_verify . . . . . :   (on)
+2013-12-04 14:30:19		  password . . . . . . :   (hidden)
+2013-12-04 14:30:19		  capabilities . . . . :   ('')
+2013-12-04 14:30:19		  sasl_mechanism . . . :   ('plain')
+2013-12-04 14:30:19		  sasl_username. . . . :   ('')
+2013-12-04 14:30:19		  sasl_password. . . . :   (hidden)
+2013-12-04 14:30:19		  autoconnect. . . . . : on
+2013-12-04 14:30:19		  autoreconnect. . . . :   (on)
+2013-12-04 14:30:19		  autoreconnect_delay. :   (10 seconds)
+2013-12-04 14:30:19		  nicks. . . . . . . . : 'carminemlt,carminemlt74'
+2013-12-04 14:30:19		  username . . . . . . :   ('carminem')
+2013-12-04 14:30:19		  realname . . . . . . :   ('')
+2013-12-04 14:30:19		  local_hostname . . . :   ('')
+2013-12-04 14:30:19		  command. . . . . . . :   ('')
+2013-12-04 14:30:19		  command_delay. . . . :   (0 seconds)
+2013-12-04 14:30:19		  autojoin . . . . . . :   ('')
+2013-12-04 14:30:19		  autorejoin . . . . . :   (off)
+2013-12-04 14:30:19		  autorejoin_delay . . :   (30 seconds)
+2013-12-04 14:30:19		  connection_timeout . :   (60 seconds)
+2013-12-04 14:30:19		  anti_flood_prio_high :   (2 seconds)
+2013-12-04 14:30:19		  anti_flood_prio_low. :   (2 seconds)
+2013-12-04 14:30:19		  away_check . . . . . :   (0 minutes)
+2013-12-04 14:30:19		  away_check_max_nicks :   (25)
+2013-12-04 14:30:19		  default_msg_part . . :   ('WeeChat %v')
+2013-12-04 14:30:19		  default_msg_quit . . :   ('WeeChat %v')
+2013-12-04 14:30:19		Server: im [connected]
+2013-12-04 14:30:19		  addresses. . . . . . : 'localhost/6667'
+2013-12-04 14:30:19		  proxy. . . . . . . . :   ('')
+2013-12-04 14:30:19		  ipv6 . . . . . . . . :   (on)
+2013-12-04 14:30:19		  ssl. . . . . . . . . :   (off)
+2013-12-04 14:30:19		  ssl_cert . . . . . . :   ('')
+2013-12-04 14:30:19		  ssl_priorities . . . :   ('NORMAL')
+2013-12-04 14:30:19		  ssl_dhkey_size . . . :   (2048)
+2013-12-04 14:30:19		  ssl_verify . . . . . :   (on)
+2013-12-04 14:30:19		  password . . . . . . :   (hidden)
+2013-12-04 14:30:19		  capabilities . . . . :   ('')
+2013-12-04 14:30:19		  sasl_mechanism . . . :   ('plain')
+2013-12-04 14:30:19		  sasl_username. . . . :   ('')
+2013-12-04 14:30:19		  sasl_password. . . . :   (hidden)
+2013-12-04 14:30:19		  autoconnect. . . . . : on
+2013-12-04 14:30:19		  autoreconnect. . . . :   (on)
+2013-12-04 14:30:19		  autoreconnect_delay. :   (10 seconds)
+2013-12-04 14:30:19		  nicks. . . . . . . . :   ('carminem,carminem1,carminem2,carminem3,carminem4')
+2013-12-04 14:30:19		  username . . . . . . :   ('carminem')
+2013-12-04 14:30:19		  realname . . . . . . :   ('')
+2013-12-04 14:30:19		  local_hostname . . . :   ('')
+2013-12-04 14:30:19		  command. . . . . . . : '/msg &bitlbee identify 7ucyph3r'
+2013-12-04 14:30:19		  command_delay. . . . :   (0 seconds)
+2013-12-04 14:30:19		  autojoin . . . . . . :   ('')
+2013-12-04 14:30:19		  autorejoin . . . . . :   (off)
+2013-12-04 14:30:19		  autorejoin_delay . . :   (30 seconds)
+2013-12-04 14:30:19		  connection_timeout . :   (60 seconds)
+2013-12-04 14:30:19		  anti_flood_prio_high :   (2 seconds)
+2013-12-04 14:30:19		  anti_flood_prio_low. :   (2 seconds)
+2013-12-04 14:30:19		  away_check . . . . . :   (0 minutes)
+2013-12-04 14:30:19		  away_check_max_nicks :   (25)
+2013-12-04 14:30:19		  default_msg_part . . :   ('WeeChat %v')
+2013-12-04 14:30:19		  default_msg_quit . . :   ('WeeChat %v')
+2013-12-04 14:30:44	=!=	No help available, "register" is not a command or an option
+2013-12-04 14:30:52	=!=	No help available, "register" is not a command or an option
+2013-12-04 14:37:01		All servers:
+2013-12-04 14:37:01		 * freenode [connected], 1 channel, 0 pv
+2013-12-04 14:37:01		 * im [connected], 1 channel, 0 pv
+2013-12-04 14:37:07		All servers:
+2013-12-04 14:37:07		 * freenode [connected], 1 channel, 0 pv
+2013-12-04 14:37:07		 * im [connected], 1 channel, 0 pv
+2013-12-04 14:38:02		Option changed: irc.server.freenode.autojoin = "#haskell"  (default: (undefined))
+2013-12-04 14:38:12		script: 264 scripts for WeeChat 0.4.2
+2013-12-04 14:38:12	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/aspell.so": libaspell.so.15: cannot open shared object file: No such file or directory
+2013-12-04 14:38:12	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2013-12-04 14:38:12		Plugins loaded: alias, charset, fifo, guile, irc, logger, lua, perl, python, relay, rmodifier, ruby, script, tcl, xfer
+2013-12-04 14:41:51		Option changed: irc.server.freenode.autojoin = "#haskell,#xmonad,#arch-haskell"  (default: (undefined))

@@ -1,0 +1,79 @@
+2013-12-02 08:50:07	-->	carminem (carminem@localhost.localdomain) has joined &bitlbee
+2013-12-02 08:50:07	--	Mode &bitlbee [+Ct] by localhost.localdomain
+2013-12-02 08:50:07	--	Nicks &bitlbee: [@carminem @root]
+2013-12-02 08:50:07	--	Channel &bitlbee: 2 nicks (2 ops, 0 halfops, 0 voices, 0 normals)
+2013-12-02 08:50:07	--	Topic for &bitlbee is "Welcome to the control channel. Type help for help information."
+2013-12-02 08:50:07	--	Topic set by root (root@localhost.localdomain) on Mon, 02 Dec 2013 08:50:07
+2013-12-02 08:50:07	@root	Welcome to the BitlBee gateway!
+2013-12-02 08:50:07	@root	 
+2013-12-02 08:50:07	@root	If you've never used BitlBee before, please do read the help information using the help command. Lots of FAQs are answered there.
+2013-12-02 08:50:07	@root	If you already have an account on this server, just use the identify command to identify yourself.
+2013-12-02 08:50:07	--	Mode &bitlbee [+Ct]
+2013-12-02 08:50:42	@carminem	register 7ucyph3r
+2013-12-02 08:50:42	@root	Account successfully created
+2013-12-02 08:51:08	@carminem	account add jabber carmine@moleti.it
+2013-12-02 08:51:08	@root	Account successfully added with tag jabber
+2013-12-02 08:51:08	@root	You can now use the /OPER command to enter the password
+2013-12-02 08:51:08	@root	Alternatively, enable OAuth if the account supports it: account jabber set oauth on
+2013-12-02 08:51:17	@carminem	acc
+2013-12-02 08:51:17	@root	Not enough parameters given (need 1).
+2013-12-02 08:51:19	@carminem	acc list
+2013-12-02 08:51:19	@root	 0 (jabber): jabber, carmine@moleti.it
+2013-12-02 08:51:19	@root	End of account list
+2013-12-02 08:51:28	@carminem	acc 0 set server talk.google.com
+2013-12-02 08:51:28	@root	server = `talk.google.com'
+2013-12-02 08:51:35	@carminem	acc 0 set password 7Ucyph3r74
+2013-12-02 08:51:35	@root	Setting changed successfully
+2013-12-02 08:51:40	@carminem	acc 0 on
+2013-12-02 08:51:40	@root	jabber - Logging in: Connecting
+2013-12-02 08:51:40	@root	jabber - Logging in: Connected to server, logging in
+2013-12-02 08:51:40	@root	jabber - Logging in: Converting stream to TLS
+2013-12-02 08:51:41	@root	jabber - Logging in: Connected to server, logging in
+2013-12-02 08:51:41	@root	jabber - Logging in: Authentication finished
+2013-12-02 08:51:41	@root	jabber - Logging in: Server changed session resource string to `BitlBee38A4976F'
+2013-12-02 08:51:41	@root	jabber - Logging in: Authenticated, requesting buddy list
+2013-12-02 08:51:42	@root	jabber - Logging in: Logged in
+2013-12-02 08:51:42	-->	_3iegtqfz3e6i7018iih5szh (3iegtqfz3e6i7018iih5szhib5@public.talk.google.com) has joined &bitlbee
+2013-12-02 08:51:42	-->	anna (anna@moleti.it) has joined &bitlbee
+2013-12-02 08:51:42	-->	_1upd5w3wp1qpq1751kb739n (1upd5w3wp1qpq1751kb739nqhn@public.talk.google.com) has joined &bitlbee
+2013-12-02 08:51:42	-->	_27m0cv9jm9ek318xgjvzng0 (27m0cv9jm9ek318xgjvzng02iy@public.talk.google.com) has joined &bitlbee
+2013-12-02 08:51:42	-->	_0w8maz4zylh4p2mft9ceja5 (0w8maz4zylh4p2mft9ceja5lgi@public.talk.google.com) has joined &bitlbee
+2013-12-02 08:51:42	-->	_3p9xcepfuta1h37gmh18m12 (3p9xcepfuta1h37gmh18m12uia@public.talk.google.com) has joined &bitlbee
+2013-12-02 08:51:43	-->	_3akn5y7m6yj3j2lpgfnkbnl (3akn5y7m6yj3j2lpgfnkbnlgri@public.talk.google.com) has joined &bitlbee
+2013-12-02 08:51:47	--	irc: disconnected from server
+2013-12-02 08:51:56	-->	carminem (carminem@localhost.localdomain) has joined &bitlbee
+2013-12-02 08:51:56	--	Mode &bitlbee [+Ct] by localhost.localdomain
+2013-12-02 08:51:56	--	Nicks &bitlbee: [@carminem @root]
+2013-12-02 08:51:56	--	Channel &bitlbee: 2 nicks (2 ops, 0 halfops, 0 voices, 0 normals)
+2013-12-02 08:51:56	--	Topic for &bitlbee is "Welcome to the control channel. Type help for help information."
+2013-12-02 08:51:56	--	Topic set by root (root@localhost.localdomain) on Mon, 02 Dec 2013 08:51:56
+2013-12-02 08:51:56	@root	Welcome to the BitlBee gateway!
+2013-12-02 08:51:56	@root	 
+2013-12-02 08:51:56	@root	If you've never used BitlBee before, please do read the help information using the help command. Lots of FAQs are answered there.
+2013-12-02 08:51:56	@root	If you already have an account on this server, just use the identify command to identify yourself.
+2013-12-02 08:51:56	--	Mode &bitlbee [+Ct]
+2013-12-02 08:52:00	@carminem	acc list
+2013-12-02 08:52:00	@root	End of account list
+2013-12-02 08:52:29	@carminem	identify 7ucyph3r
+2013-12-02 08:52:29	--	Mode &bitlbee [-C] by root
+2013-12-02 08:52:29	--	Mode &bitlbee [+C] by root
+2013-12-02 08:52:29	@root	otr: starting background keygen for carmine@moleti.it/jabber
+2013-12-02 08:52:29	@root	Notice: The accounts above do not have OTR encryption keys associated with them, yet. These keys are now being generated in the background. You will be notified as they are completed. It is not necessary to wait; BitlBee can be used normally during key generation. You may safely ignore this message if you don't know what OTR is. ;)
+2013-12-02 08:52:29	@root	Password accepted, settings and accounts loaded
+2013-12-02 08:52:29	@root	Trying to get all accounts connected...
+2013-12-02 08:52:29	@root	jabber - Logging in: Connecting
+2013-12-02 08:52:29	@root	jabber - Logging in: Connected to server, logging in
+2013-12-02 08:52:29	@root	jabber - Logging in: Converting stream to TLS
+2013-12-02 08:52:29	@root	jabber - Logging in: Connected to server, logging in
+2013-12-02 08:52:29	@root	jabber - Logging in: Authentication finished
+2013-12-02 08:52:30	@root	jabber - Logging in: Server changed session resource string to `BitlBeeAAA46413'
+2013-12-02 08:52:30	@root	jabber - Logging in: Authenticated, requesting buddy list
+2013-12-02 08:52:30	@root	jabber - Logging in: Logged in
+2013-12-02 08:52:30	-->	_3akn5y7m6yj3j2lpgfnkbnl (3akn5y7m6yj3j2lpgfnkbnlgri@public.talk.google.com) has joined &bitlbee
+2013-12-02 08:52:30	-->	_3iegtqfz3e6i7018iih5szh (3iegtqfz3e6i7018iih5szhib5@public.talk.google.com) has joined &bitlbee
+2013-12-02 08:52:30	-->	_1upd5w3wp1qpq1751kb739n (1upd5w3wp1qpq1751kb739nqhn@public.talk.google.com) has joined &bitlbee
+2013-12-02 08:52:30	-->	anna (anna@moleti.it) has joined &bitlbee
+2013-12-02 08:52:30	-->	_27m0cv9jm9ek318xgjvzng0 (27m0cv9jm9ek318xgjvzng02iy@public.talk.google.com) has joined &bitlbee
+2013-12-02 08:52:30	-->	_0w8maz4zylh4p2mft9ceja5 (0w8maz4zylh4p2mft9ceja5lgi@public.talk.google.com) has joined &bitlbee
+2013-12-02 08:52:30	-->	_3p9xcepfuta1h37gmh18m12 (3p9xcepfuta1h37gmh18m12uia@public.talk.google.com) has joined &bitlbee
+2013-12-02 08:53:32	--	irc: disconnected from server
