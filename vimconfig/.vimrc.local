@@ -57,7 +57,9 @@ NeoBundle 'scrooloose/syntastic'
 NeoBundle 'pbrisbin/html-template-syntax'
 NeoBundle 'Twinside/vim-hoogle'
 
-NeoBundle 'kien/ctrlp'
+NeoBundle 'kien/ctrlp.vim'
+NeoBundle 'SirVer/ultisnips'
+NeoBundle 'honza/vim-snippets'
 
 NeoBundleCheck
 
@@ -121,6 +123,17 @@ nnoremap <silent> <leader>rs :source ~/.vimrc<CR>
 " Edit .vimrc
 nnoremap <silent> <leader>ec :e ~/.vimrc<CR>
 
+" ctrlp customizations
+
+" hdevtools customization
+au FileType haskell nnoremap <buffer> <F1> :HdevtoolsType<CR>
+au FileType haskell nnoremap <buffer> <silent> <F2> :HdevtoolsClear<CR>
+au FileType haskell nnoremap <buffer> <silent> <F3> :HdevtoolsInfo<CR>
+
+" syntastic customizations
+map <silent> <leader>e :Errors<CR>
+map <leader>st :SyntasticToggleMode<CR>
+
 " NerdTree customizations
 map <leader>nt :NERDTree<CR>
 
@@ -150,6 +163,14 @@ au BufEnter *.hs compiler ghc
 
 " GhcMod configuration
 "autocmd BufWritePost *.hs GhcModCheckAndLintAsync
+" Reload
+map <silent> tu :call GHC_BrowseAll()<CR>
+" Type lookup
+map <silent> tw :call GHC_ShowType(1)<CR>
+
+" TagBar configuration
+nmap <leader>= :TagbarToggle<CR>
+let g:tagbar_autofocus = 1
 
 " Neocomplete configuration
 let g:acp_enableAtStartup = 0
@@ -232,3 +253,10 @@ autocmd FileType vim let b:comment_leader = '" '
 autocmd FileType conf,fstab let b:comment_leader = '# '
 noremap <silent> <leader>cc :<C-B>silent <C-E>s/^/<C-R>=escape(b:comment_leader,'\/')<CR>/<CR>:nohlsearch<CR>
 noremap <silent> <leader>cu :<C-B>silent <C-E>s/^\V<C-R>=escape(b:comment_leader,'\/')<CR>//e<CR>:nohlsearch<CR>
+
+" Trigger UltiSnip configuration
+let g:UltiSnipsExpandTrigger="<tab>"
+let g:UltiSnipsJumpForwardTrigger="<tab>"
+let g:UltiSnipsJumpBackwardTrigger="<s-tab>"
+let g:UltiSnipsEditSplit="vertical"
+
