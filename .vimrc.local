@@ -125,6 +125,10 @@ nnoremap <silent> <leader>rs :source ~/.vimrc<CR>
 " Edit .vimrc
 nnoremap <silent> <leader>ec :e ~/.vimrc<CR>
 
+" Paste shortcuts
+map <silent> <leader>sp :set paste<CR>
+map <silent> <leader>np :set nopaste<CR>
+
 " ctrlp customizations
 
 " hdevtools customization
@@ -140,6 +144,7 @@ map <leader>st :SyntasticToggleMode<CR>
 " => Slime
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " vmap <silent> <Leader>rs <Plug>SendSelectionToTmux
+"
 " nmap <silent> <Leader>rs <Plug>NormalModeSendToTmux
 " nmap <silent> <Leader>rv <Plug>SetTmuxVars
 
