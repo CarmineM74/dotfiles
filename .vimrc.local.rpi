@@ -1,0 +1,346 @@
+" Configuring Neobundle
+if has('vim_starting')
+  set nocompatible
+  set runtimepath+=~/.vim/bundle/neobundle.vim/
+endif
+
+call neobundle#begin(expand('~/.vim/bundle'))
+
+NeoBundleFetch 'Shougo/neobundle.vim'
+
+NeoBundle 'Shougo/vimproc', {
+      \ 'build' : {
+      \     'windows' : 'make -f make_mingw32.mak',
+      \     'cygwin' : 'make -f make_cygwin.mak',
+      \     'mac' : 'make -f make_mac.mak',
+      \     'unix' : 'make -f make_unix.mak',
+      \    },
+      \ }
+
+" Favourite bundles
+NeoBundle 'altercation/vim-colors-solarized'
+NeoBundle 'xolox/vim-misc'
+NeoBundle 'tpope/vim-fugitive'
+NeoBundle 'int3/vim-extradite'
+NeoBundle 'jgdavey/tslime.vim'
+NeoBundle 'jgdavey/vim-turbux'
+NeoBundle 'scrooloose/nerdtree'
+NeoBundle 'majutsushi/tagbar'
+NeoBundle 'tpope/vim-surround'
+NeoBundle 'xolox/vim-easytags'
+NeoBundle 'tpope/vim-cucumber'
+NeoBundle 'tpope/vim-commentary'
+NeoBundle 'vim-scripts/Align'
+NeoBundle 'edsono/vim-matchit'
+NeoBundle 'michaeljsmith/vim-indent-object'
+NeoBundle 'kana/vim-textobj-user'
+NeoBundle 'nelstrom/vim-textobj-rubyblock'
+NeoBundle 'tpope/vim-abolish'
+NeoBundle 'vim-scripts/Gundo'
+NeoBundle 'tpope/vim-endwise'
+NeoBundle 'ervandew/supertab'
+NeoBundle 'Raimondi/delimitMate'
+NeoBundle 'docunext/closetag.vim'
+NeoBundle 'jelera/vim-javascript-syntax'
+NeoBundle 'kchmck/vim-coffee-script'
+NeoBundle 'tpope/vim-rails'
+NeoBundle 'vim-ruby/vim-ruby'
+NeoBundle 'tpope/vim-rbenv'
+
+" Haskell stuff
+NeoBundle 'eagletmt/ghcmod-vim'
+NeoBundle 'ujihisa/neco-ghc'
+NeoBundle 'lukerandall/haskellmode-vim'
+NeoBundle 'vim-scripts/haskell.vim'
+NeoBundle 'scrooloose/syntastic'
+NeoBundle 'pbrisbin/html-template-syntax'
+NeoBundle 'Twinside/vim-hoogle'
+
+NeoBundle 'kien/ctrlp.vim'
+"NeoBundle 'SirVer/ultisnips'
+"NeoBundle 'honza/vim-snippets'
+"NeoBundle 'valloric/YouCompleteMe'
+
+NeoBundleCheck
+
+call neobundle#end()
+
+" UI customizations
+set history=1000
+set background=dark
+let g:solarized_termcolors=16
+let g:solarized_termtrans=1
+colorscheme smyck
+set t_Co=256
+
+" Powerline fonts is: Menlo regular for Powerline
+
+" Status line configuration
+" Remember to clear the powerline cache after changing
+" the statusbar:
+" :PowerlineClearCache
+" Disable powerline cache while developing status line
+let g:Powerline_cache_enabled = 0
+
+set laststatus=2                " Always show status line
+"set statusline=%<%f\                      " Filename
+"set statusline+=%w%h%m%r                  " Options
+"set statusline+=%{fugitive#statusline()}  " Git Hotness
+"set statusline+=\ [%{&ff}/%Y]             " filetype
+"set statusline+=\ [%{getcwd()}]           " current dir
+"set statusline+=%=%-14.(L%l,C%c%V%)\ %p%%   " Right aligned file nav info
+
+" Powerline symbols: compatible, unicode, fancy
+let g:Powerline_symbols = 'unicode'
+" Override for terminals lacking the usual symbols support
+"let g:Powerline_dividers_override = ['>>','>','<<','<']
+
+" Easier moving in tabs and windows
+map <C-J> <C-W>j<C-W>_
+map <C-K> <C-W>k<C-W>_
+map <C-L> <C-W>l<C-W>_
+map <C-H> <C-W>h<C-W>_
+
+" Yank from the cursor to the EOL, to be consistent with C and D
+nnoremap Y y$
+
+set nolist                      " Display unprintable characters F12 switches
+set listchars=tab:·\ ,eol:¶,trail:·,extends:»,precedes:« " Unprintable chars mapping
+map <leader>ls :set list<cr>
+map <leader>nls :set nolist<cr>
+
+" Edit shortcuts
+cnoremap %% <C-R>=expand('%:h').'/'<cr>
+" Open in window
+map <leader>ew :e %%
+" Open in split
+map <leader>es :sp %%
+" Open in vertical split
+map <leader>ev :vsp %%
+" Open in tab
+map <leader>et :tabe %%
+
+" Reload .vimrc
+nnoremap <silent> <leader>rs :source ~/.vimrc<CR>
+" Edit .vimrc
+nnoremap <silent> <leader>ec :e ~/.vimrc<CR>
+
+" Paste shortcuts
+map <silent> <leader>sp :set paste<CR>
+map <silent> <leader>np :set nopaste<CR>
+
+" ctrlp customizations
+
+" hdevtools customization
+au FileType haskell nnoremap <buffer> <F1> :HdevtoolsType<CR>
+au FileType haskell nnoremap <buffer> <silent> <F2> :HdevtoolsClear<CR>
+au FileType haskell nnoremap <buffer> <silent> <F3> :HdevtoolsInfo<CR>
+
+" syntastic customizations
+map <silent> <leader>e :Errors<CR>
+map <leader>st :SyntasticToggleMode<CR>
+
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+" => Slime
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+" vmap <silent> <Leader>rs <Plug>SendSelectionToTmux
+"
+" nmap <silent> <Leader>rs <Plug>NormalModeSendToTmux
+" nmap <silent> <Leader>rv <Plug>SetTmuxVars
+
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+" => Alignment
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+" Stop Align plugin from forcing its mappings on us
+let g:loaded_AlignMapsPlugin=1
+" Align on equal signs
+map <Leader>a= :Align =<CR>
+" Align on commas
+map <Leader>a, :Align ,<CR>
+" Align on pipes
+map <Leader>a<bar> :Align <bar><CR>
+" Prompt for align character
+map <leader>ap :Align
+
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+" NerdTree customizations
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+map <leader>nt :NERDTree<CR>
+ 
+" Close nerdtree after a file is selected
+let NERDTreeQuitOnOpen = 0
+
+function! IsNERDTreeOpen()
+  return exists("t:NERDTreeBufName") && (bufwinnr(t:NERDTreeBufName) != -1)
+endfunction
+
+function! ToggleFindNerd()
+  if IsNERDTreeOpen()
+    exec ':NERDTreeToggle'
+  else
+    exec ':NERDTreeFind'
+  endif
+endfunction
+
+" If nerd tree is closed, find current file, if open, close it
+map <silent> <C-s> <ESC>:call ToggleFindNerd()<CR>
+
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+" => Turbux
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+let g:no_turbux_mappings = 1
+nmap <leader>rT <Plug>SendTestToTmux
+nmap <leader>rt <Plug>SendFocusedTestToTmux
+
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+" => Tags
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+" Prevent automatic ctag updates
+let g:easytags_auto_update = 0
+let g:easytags_auto_highlight = 0
+let g:easytags_on_cursorhold = 0
+
+" Generate tags manually
+nmap <leader>tu :UpdateTags<CR>
+
+" Scan recursively, not just current file
+let g:easytags_autorecurse = 1
+" Follow symbolic links
+let g:easytags_resolve_links = 1
+
+" Toggle tagbar
+nmap <leader>tt :TagbarToggle<CR>
+" Close tagbar after jumping to a tag
+let g:tagbar_autoclose = 1
+
+
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+" => Git
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+let g:extradite_width = 60
+" Hide messy Ggrep output and copen automatically
+function! NonintrusiveGitGrep(term)
+  execute "copen"
+  " Map 't' to open selected item in new tab
+  execute "nnoremap <silent> <buffer> t <C-W><CR><C-W>T"
+  execute "silent! Ggrep " . a:term
+endfunction
+
+command! -nargs=1 GGrep call NonintrusiveGitGrep(<q-args>)
+nmap <leader>gs :Gstatus<CR>
+nmap <leader>gc :Gcommit<CR>
+nmap <leader>gg :copen<CR>:GGrep 
+nmap <leader>gl :Extradite!<CR>
+nmap <leader>gd :Gdiff<CR>
+nmap <leader>gb :Gblame<CR>
+nnoremap <silent> <C-\> :call NonintrusiveGitGrep(expand("<cword>"))<CR>
+vnoremap <silent> <C-\> "*y:call NonintrusiveGitGrep(@*)<CR>
+
+function! CommittedFiles()
+  " Clear quickfix list
+  let qf_list = []
+  " Find files committed in HEAD
+  let git_output = system("git diff-tree --no-commit-id --name-only -r HEAD\n")
+  for committed_file in split(git_output, "\n")
+    let qf_item = {'filename': committed_file}
+    call add(qf_list, qf_item)
+  endfor
+  " Fill quickfix list with them
+  call setqflist(qf_list, '')
+endfunction
+
+" Show list of last-committed files
+nnoremap <silent> <leader>g? :call CommittedFiles()<CR>:copen<CR>
+
+
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+" => Conversion
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+" Convert symbol to string
+nnoremap <silent> <leader>2s F:r"Ea"<ESC>
+" Convert string to symbol
+nnoremap <silent> <leader>2y F"r:,x
+
+" Convert name to snake_case
+nmap <leader>2_ cr_
+" Convert name to camelCase
+nmap <leader>2c crc
+" Convert name to MixedCase
+nmap <leader>2m crm
+" Convert name to SNAKE_UPPERCASE
+nmap <leader>2u cru
+" Convert name to dash-case
+nmap <leader>2- cr-
+
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+" Ruby/Rails specs
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+function! RunSpec(args)
+    if exists("b:rails_root") && filereadable(b:rails_root . "/script/spec")
+        let spec = b:rails_root . "/script/spec"
+    else
+        let spec = "rspec"
+    end 
+    let cmd = ":! " . spec . " % -cfn " . a:args
+    execute cmd 
+endfunction
+
+" Mappings
+" run one rspec example or describe block based on cursor position
+map !s :call RunSpec("-l " . <C-r>=line('.')<CR>)
+" run full rspec file
+map !S :call RunSpec("")
+
+let g:ghc = "/usr/bin/ghc"
+let g:haddock_browser = "open"
+let g:haddock_browser_callformat = "%s -a Firefox %s"
+
+" Haskellmode vim
+au BufEnter *.hs compiler ghc
+
+" GhcMod configuration
+"autocmd BufWritePost *.hs GhcModCheckAndLintAsync
+" Reload
+map <silent> tu :call GHC_BrowseAll()<CR>
+" Type lookup
+map <silent> tw :call GHC_ShowType(1)<CR>
+
+" TagBar configuration
+nmap <leader>= :TagbarToggle<CR>
+let g:tagbar_autofocus = 1
+
+" neco-ghc
+"let $PATH = $PATH . ':' . expand("~/.cabal/bin")
+
+nnoremap <leader>hs :Hoogle 
+nnoremap <silent> <leader>hsw :Hoogle <C-R>=expand("<cword>")<cr><cr>
+nnoremap <leader>hsi :HoogleInfo
+nnoremap <silent> <leader>hsc :HoogleClose<CR>
+
+" This has to be the last line otherwise some plugins
+" will fail to recognize filetype, thus preventing
+" higlighting and all the neat stuff
+filetype plugin indent on
+
+" Comment/Uncomment
+augroup commenting-group
+autocmd FileType haskell let b:comment_leader = '-- '
+autocmd FileType sh,ruby,python let b:comment_leader = '# '
+autocmd FileType vim let b:comment_leader = '" '
+autocmd FileType conf,fstab let b:comment_leader = '# '
+autocmd FileType javascript let b:comment_leader = '// '
+noremap <silent> <leader>cc :<C-B>silent <C-E>s/^/<C-R>=escape(b:comment_leader,'\/')<CR>/<CR>:nohlsearch<CR>
+noremap <silent> <leader>cu :<C-B>silent <C-E>s/^\V<C-R>=escape(b:comment_leader,'\/')<CR>//e<CR>:nohlsearch<CR>
+augroup END
+
+" Trigger UltiSnip configuration
+let g:UltiSnipsExpandTrigger="<tab>"
+let g:UltiSnipsJumpForwardTrigger="<tab>"
+let g:UltiSnipsJumpBackwardTrigger="<s-tab>"
+let g:UltiSnipsEditSplit="vertical"
+
+" YouCompleteMe configuration
+let g:ycm_key_list_select_completion = ['<Down>']
+
+" javascript folding
+au FileType javascript call JavaScriptFold()
