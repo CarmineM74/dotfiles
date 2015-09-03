@@ -61,6 +61,10 @@ NeoBundle 'SirVer/ultisnips'
 NeoBundle 'honza/vim-snippets'
 NeoBundle 'valloric/YouCompleteMe'
 
+" Typescript
+"NeoBundle 'Quramy/tsuquyomi'
+NeoBundle 'leafgarland/typescript-vim'
+
 NeoBundleCheck
 
 call neobundle#end()
@@ -344,3 +348,9 @@ let g:ycm_key_list_select_completion = ['<Down>']
 
 " javascript folding
 au FileType javascript call JavaScriptFold()
+
+" leafgarland/typescript
+let g:typescript_indent_disable = 1
+let g:typescript_compiler_options = '-sourcemap'
+autocmd QuickFixCmdPost [^l]* nested cwindow
+autocmd QuickFixCmdPost    l* netsed lwindow
